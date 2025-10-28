@@ -1,0 +1,89 @@
+version: 2
+
+models:
+  - name: track_to_artists
+    description: >
+      Cria a relação entre faixas e artistas com base nos dados brutos da camada landing.
+      Cada linha representa um par (track_id, artist_id), facilitando a navegação entre
+      as faixas e seus respectivos artistas.
+    columns:
+      - name: track_id
+        description: "Identificador único da faixa (track)."
+      - name: artist_id
+        description: "Identificador único do artista relacionado à faixa."
+      - name: artist_name
+        description: "Nome do artista."
+      - name: artist_href
+        description: "Link da API do Spotify para os detalhes do artista."
+      - name: artist_type
+        description: "Tipo de entidade — geralmente 'artist'."
+      - name: artist_spotify
+        description: "URL pública do Spotify para o perfil do artista."
+
+  - name: listened_tracks
+    description: >
+      Contém os registros detalhados de faixas ouvidas pelos usuários, incluindo informações
+      sobre o álbum, metadados da faixa e o contexto da reprodução.
+    columns:
+      - name: track_id
+        description: "Identificador único da faixa."
+      - name: track_name
+        description: "Nome da faixa."
+      - name: popularity
+        description: "Popularidade da faixa (métrica do Spotify de 0 a 100)."
+      - name: duration_ms
+        description: "Duração da faixa em milissegundos."
+      - name: disc_number
+        description: "Número do disco ao qual a faixa pertence (para álbuns múltiplos)."
+      - name: href
+        description: "Link da API do Spotify para os detalhes da faixa."
+      - name: is_local
+        description: "Indica se a faixa é um arquivo local do usuário (TRUE/FALSE)."
+      - name: preview_url
+        description: "URL para o trecho de prévia da faixa."
+      - name: track_number
+        description: "Número da faixa dentro do álbum."
+      - name: type
+        description: "Tipo de entidade — geralmente 'track'."
+      - name: uri
+        description: "URI única do Spotify para a faixa."
+      - name: album_id
+        description: "Identificador único do álbum ao qual a faixa pertence."
+      - name: album_name
+        description: "Nome do álbum."
+      - name: album_release_date
+        description: >
+          Data de lançamento do álbum convertida para o formato DATE. Caso o valor original
+          contenha apenas o ano, assume-se o dia 01/01 como padrão.
+      - name: album_release_date_precision
+        description: "Nível de precisão da data de lançamento ('year', 'month', 'day')."
+      - name: album_total_tracks
+        description: "Número total de faixas no álbum."
+      - name: album_type
+        description: "Tipo do álbum (por exemplo, 'album', 'single', 'compilation')."
+      - name: album_uri
+        description: "URI única do Spotify para o álbum."
+      - name: played_at
+        description: "Timestamp de quando a faixa foi ouvida."
+      - name: context_type
+        description: "Tipo de contexto da reprodução (por exemplo, playlist, álbum, artista)."
+      - name: load_datetime
+        description: "Data e hora em que os dados foram carregados na camada landing."
+
+  - name: album_to_artists
+    description: >
+      Estabelece a relação entre álbuns e artistas, permitindo identificar todos os artistas
+      associados a um determinado álbum.
+    columns:
+      - name: album_id
+        description: "Identificador único do álbum."
+      - name: artist_id
+        description: "Identificador único do artista associado ao álbum."
+      - name: artist_name
+        description: "Nome do artista."
+      - name: artist_href
+        description: "Link da API do Spotify para os detalhes do artista."
+      - name: artist_type
+        description: "Tipo de entidade — geralmente 'artist'."
+      - name: artist_uri
+        description: "URI única do Spotify para o artista."

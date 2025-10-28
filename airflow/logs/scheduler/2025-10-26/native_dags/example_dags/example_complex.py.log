@@ -1,0 +1,672 @@
+[2025-10-26T15:42:39.222-0300] {processor.py:161} INFO - Started process (PID=15378) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:42:39.223-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T15:42:39.224-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:42:39.223-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:42:39.229-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:42:39.300-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:42:39.300-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:42:39.305-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:42:39.305-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T15:42:39.322-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.105 seconds
+[2025-10-26T15:44:49.493-0300] {processor.py:161} INFO - Started process (PID=15626) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:44:49.495-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T15:44:49.496-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:44:49.496-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:44:49.502-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:44:49.517-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:44:49.517-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:44:49.524-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:44:49.524-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T15:44:49.538-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2025-10-26T15:45:46.972-0300] {processor.py:161} INFO - Started process (PID=15704) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:45:46.973-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T15:45:46.974-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:45:46.974-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:45:46.980-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:45:46.996-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:45:46.995-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:45:47.002-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:45:47.002-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T15:45:47.017-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.049 seconds
+[2025-10-26T15:46:41.169-0300] {processor.py:161} INFO - Started process (PID=15781) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:46:41.171-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T15:46:41.172-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:46:41.172-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:46:41.178-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:46:41.192-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:46:41.192-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:46:41.199-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:46:41.199-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T15:46:41.211-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.046 seconds
+[2025-10-26T15:47:35.407-0300] {processor.py:161} INFO - Started process (PID=15856) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:47:35.409-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T15:47:35.410-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:47:35.410-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:47:35.417-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:47:35.434-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:47:35.433-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:47:35.441-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:47:35.441-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T15:47:35.455-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.053 seconds
+[2025-10-26T15:48:45.228-0300] {processor.py:161} INFO - Started process (PID=15969) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:48:45.230-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T15:48:45.232-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:48:45.231-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:48:45.238-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:48:45.254-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:48:45.254-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:48:45.261-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:48:45.261-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T15:48:45.360-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.136 seconds
+[2025-10-26T15:49:37.635-0300] {processor.py:161} INFO - Started process (PID=16041) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:49:37.636-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T15:49:37.638-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:49:37.637-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:49:37.643-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:49:37.658-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:49:37.658-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:49:37.665-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:49:37.665-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T15:49:37.678-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2025-10-26T15:50:30.012-0300] {processor.py:161} INFO - Started process (PID=16115) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:50:30.013-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T15:50:30.015-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:50:30.014-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:50:30.021-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:50:30.037-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:50:30.036-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:50:30.044-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:50:30.044-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T15:50:30.058-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2025-10-26T15:51:42.640-0300] {processor.py:161} INFO - Started process (PID=16208) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:51:42.642-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T15:51:42.644-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:51:42.643-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:51:42.651-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:51:42.668-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:51:42.668-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:51:42.676-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:51:42.676-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T15:51:42.691-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.056 seconds
+[2025-10-26T15:52:33.831-0300] {processor.py:161} INFO - Started process (PID=16282) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:52:33.833-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T15:52:33.834-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:52:33.833-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:52:33.840-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:52:33.854-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:52:33.854-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:52:33.861-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:52:33.861-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T15:52:33.875-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2025-10-26T15:53:28.425-0300] {processor.py:161} INFO - Started process (PID=16356) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:53:28.426-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T15:53:28.428-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:53:28.427-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:53:28.434-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:53:28.449-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:53:28.449-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:53:28.456-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:53:28.456-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T15:53:28.469-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2025-10-26T15:54:20.823-0300] {processor.py:161} INFO - Started process (PID=16430) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:54:20.825-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T15:54:20.826-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:54:20.826-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:54:20.833-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:54:20.849-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:54:20.849-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:54:20.856-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:54:20.856-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T15:54:20.870-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.050 seconds
+[2025-10-26T15:55:12.701-0300] {processor.py:161} INFO - Started process (PID=16502) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:55:12.703-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T15:55:12.704-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:55:12.704-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:55:12.710-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:55:12.725-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:55:12.725-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:55:12.732-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:55:12.732-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T15:55:12.745-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2025-10-26T15:56:22.958-0300] {processor.py:161} INFO - Started process (PID=16617) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:56:22.960-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T15:56:22.961-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:56:22.961-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:56:22.967-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:56:22.982-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:56:22.982-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:56:22.990-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:56:22.989-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T15:56:23.002-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2025-10-26T15:57:14.607-0300] {processor.py:161} INFO - Started process (PID=16690) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:57:14.609-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T15:57:14.610-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:57:14.610-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:57:14.616-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:57:14.632-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:57:14.632-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:57:14.639-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:57:14.639-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T15:57:14.652-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.049 seconds
+[2025-10-26T15:58:05.221-0300] {processor.py:161} INFO - Started process (PID=16763) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:58:05.223-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T15:58:05.225-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:58:05.224-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:58:05.231-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:58:05.249-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:58:05.249-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:58:05.258-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:58:05.258-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T15:58:05.274-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.057 seconds
+[2025-10-26T15:59:18.512-0300] {processor.py:161} INFO - Started process (PID=16857) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:59:18.514-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T15:59:18.515-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:59:18.515-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:59:18.521-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T15:59:18.539-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:59:18.539-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:59:18.548-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:59:18.548-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T15:59:18.563-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.056 seconds
+[2025-10-26T16:00:32.592-0300] {processor.py:161} INFO - Started process (PID=16973) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:00:32.594-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:00:32.595-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:00:32.595-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:00:32.601-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:00:32.618-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:00:32.617-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:00:32.625-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:00:32.625-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:00:32.638-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.050 seconds
+[2025-10-26T16:01:25.342-0300] {processor.py:161} INFO - Started process (PID=17048) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:01:25.344-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:01:25.345-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:01:25.345-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:01:25.351-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:01:25.367-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:01:25.367-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:01:25.374-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:01:25.374-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:01:25.387-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2025-10-26T16:02:17.149-0300] {processor.py:161} INFO - Started process (PID=17118) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:02:17.150-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:02:17.152-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:02:17.151-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:02:17.158-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:02:17.174-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:02:17.174-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:02:17.182-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:02:17.181-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:02:17.195-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.050 seconds
+[2025-10-26T16:03:07.502-0300] {processor.py:161} INFO - Started process (PID=17193) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:03:07.504-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:03:07.505-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:03:07.505-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:03:07.511-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:03:07.527-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:03:07.526-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:03:07.533-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:03:07.533-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:03:07.547-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.049 seconds
+[2025-10-26T16:03:59.491-0300] {processor.py:161} INFO - Started process (PID=17265) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:03:59.493-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:03:59.494-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:03:59.494-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:03:59.504-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:03:59.523-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:03:59.523-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:03:59.532-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:03:59.531-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:03:59.547-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.060 seconds
+[2025-10-26T16:04:50.822-0300] {processor.py:161} INFO - Started process (PID=17339) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:04:50.824-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:04:50.825-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:04:50.825-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:04:50.831-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:04:50.847-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:04:50.847-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:04:50.854-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:04:50.854-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:04:50.868-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2025-10-26T16:05:44.217-0300] {processor.py:161} INFO - Started process (PID=17412) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:05:44.219-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:05:44.220-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:05:44.220-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:05:44.226-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:05:44.241-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:05:44.241-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:05:44.248-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:05:44.248-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:05:44.260-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.047 seconds
+[2025-10-26T16:06:57.877-0300] {processor.py:161} INFO - Started process (PID=17505) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:06:57.879-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:06:57.880-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:06:57.879-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:06:57.885-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:06:57.901-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:06:57.900-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:06:57.908-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:06:57.907-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:06:57.920-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.047 seconds
+[2025-10-26T16:07:47.687-0300] {processor.py:161} INFO - Started process (PID=17578) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:07:47.689-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:07:47.690-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:07:47.690-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:07:47.696-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:07:47.711-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:07:47.711-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:07:47.718-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:07:47.718-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:07:47.731-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2025-10-26T16:08:57.126-0300] {processor.py:161} INFO - Started process (PID=17695) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:08:57.128-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:08:57.129-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:08:57.129-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:08:57.135-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:08:57.150-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:08:57.150-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:08:57.157-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:08:57.157-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:08:57.170-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.047 seconds
+[2025-10-26T16:09:50.807-0300] {processor.py:161} INFO - Started process (PID=17766) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:09:50.809-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:09:50.810-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:09:50.810-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:09:50.818-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:09:50.836-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:09:50.835-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:09:50.844-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:09:50.844-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:09:50.859-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.066 seconds
+[2025-10-26T16:10:44.071-0300] {processor.py:161} INFO - Started process (PID=17841) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:10:44.073-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:10:44.074-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:10:44.074-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:10:44.080-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:10:44.095-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:10:44.095-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:10:44.102-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:10:44.102-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:10:44.116-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.049 seconds
+[2025-10-26T16:11:38.835-0300] {processor.py:161} INFO - Started process (PID=17913) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:11:38.836-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:11:38.837-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:11:38.837-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:11:38.843-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:11:38.859-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:11:38.859-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:11:38.868-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:11:38.867-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:11:38.883-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.052 seconds
+[2025-10-26T16:12:29.659-0300] {processor.py:161} INFO - Started process (PID=17987) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:12:29.660-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:12:29.661-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:12:29.661-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:12:29.667-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:12:29.684-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:12:29.684-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:12:29.692-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:12:29.692-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:12:29.707-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.052 seconds
+[2025-10-26T16:13:20.110-0300] {processor.py:161} INFO - Started process (PID=18060) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:13:20.111-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:13:20.113-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:13:20.112-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:13:20.119-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:13:20.139-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:13:20.138-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:13:20.146-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:13:20.146-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:13:20.163-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.057 seconds
+[2025-10-26T16:14:27.557-0300] {processor.py:161} INFO - Started process (PID=18152) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:14:27.558-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:14:27.560-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:14:27.559-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:14:27.566-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:14:27.582-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:14:27.582-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:14:27.589-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:14:27.589-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:14:27.603-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.050 seconds
+[2025-10-26T16:15:33.981-0300] {processor.py:161} INFO - Started process (PID=18266) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:15:33.983-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:15:33.984-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:15:33.984-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:15:33.991-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:15:34.007-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:15:34.007-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:15:34.014-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:15:34.014-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:15:34.028-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2025-10-26T16:16:41.891-0300] {processor.py:161} INFO - Started process (PID=18358) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:16:41.893-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:16:41.894-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:16:41.894-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:16:41.900-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:16:41.916-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:16:41.916-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:16:41.924-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:16:41.923-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:16:41.937-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2025-10-26T16:17:47.483-0300] {processor.py:161} INFO - Started process (PID=18475) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:17:47.485-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:17:47.486-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:17:47.486-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:17:47.493-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:17:47.509-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:17:47.509-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:17:47.516-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:17:47.516-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:17:47.530-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2025-10-26T16:18:52.750-0300] {processor.py:161} INFO - Started process (PID=18566) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:18:52.752-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:18:52.754-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:18:52.754-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:18:52.760-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:18:52.776-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:18:52.776-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:18:52.784-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:18:52.783-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:18:52.798-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.052 seconds
+[2025-10-26T16:19:42.751-0300] {processor.py:161} INFO - Started process (PID=18638) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:19:42.752-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:19:42.754-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:19:42.753-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:19:42.760-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:19:42.776-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:19:42.776-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:19:42.784-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:19:42.783-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:19:42.797-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2025-10-26T16:20:51.067-0300] {processor.py:161} INFO - Started process (PID=18755) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:20:51.068-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:20:51.069-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:20:51.069-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:20:51.075-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:20:51.090-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:20:51.090-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:20:51.097-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:20:51.097-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:20:51.109-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.047 seconds
+[2025-10-26T16:21:57.748-0300] {processor.py:161} INFO - Started process (PID=18846) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:21:57.750-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:21:57.751-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:21:57.751-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:21:57.757-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:21:57.772-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:21:57.772-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:21:57.779-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:21:57.779-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:21:57.792-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2025-10-26T16:23:06.553-0300] {processor.py:161} INFO - Started process (PID=18962) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:23:06.555-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:23:06.556-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:23:06.556-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:23:06.563-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:23:06.578-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:23:06.578-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:23:06.586-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:23:06.586-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:23:06.600-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2025-10-26T16:24:14.165-0300] {processor.py:161} INFO - Started process (PID=19056) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:24:14.166-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:24:14.167-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:24:14.167-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:24:14.173-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:24:14.189-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:24:14.189-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:24:14.198-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:24:14.198-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:24:14.213-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.052 seconds
+[2025-10-26T16:25:15.048-0300] {processor.py:161} INFO - Started process (PID=19166) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:25:15.050-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:25:15.051-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:25:15.051-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:25:15.057-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:25:15.073-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:25:15.072-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:25:15.080-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:25:15.080-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:25:15.094-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.050 seconds
+[2025-10-26T16:26:20.692-0300] {processor.py:161} INFO - Started process (PID=19256) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:26:20.694-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:26:20.695-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:26:20.695-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:26:20.701-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:26:20.717-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:26:20.717-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:26:20.724-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:26:20.724-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:26:20.738-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2025-10-26T16:27:24.638-0300] {processor.py:161} INFO - Started process (PID=19369) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:27:24.640-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:27:24.641-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:27:24.641-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:27:24.647-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:27:24.664-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:27:24.663-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:27:24.671-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:27:24.671-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:27:24.685-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2025-10-26T16:28:29.917-0300] {processor.py:161} INFO - Started process (PID=19460) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:28:29.918-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:28:29.920-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:28:29.920-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:28:29.926-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:28:29.943-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:28:29.943-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:28:29.950-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:28:29.950-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:28:29.965-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.052 seconds
+[2025-10-26T16:29:33.769-0300] {processor.py:161} INFO - Started process (PID=19575) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:29:33.771-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:29:33.772-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:29:33.772-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:29:33.778-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:29:33.794-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:29:33.794-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:29:33.802-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:29:33.802-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:29:33.816-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2025-10-26T16:30:37.564-0300] {processor.py:161} INFO - Started process (PID=19664) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:30:37.566-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:30:37.567-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:30:37.566-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:30:37.573-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:30:37.589-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:30:37.589-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:30:37.596-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:30:37.596-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:30:37.611-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2025-10-26T16:31:39.615-0300] {processor.py:161} INFO - Started process (PID=19775) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:31:39.617-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:31:39.618-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:31:39.618-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:31:39.624-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:31:39.641-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:31:39.640-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:31:39.648-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:31:39.648-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:31:39.662-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2025-10-26T16:32:39.264-0300] {processor.py:161} INFO - Started process (PID=19862) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:32:39.266-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:32:39.267-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:32:39.266-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:32:39.273-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:32:39.289-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:32:39.289-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:32:39.296-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:32:39.296-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:32:39.310-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2025-10-26T16:33:44.765-0300] {processor.py:161} INFO - Started process (PID=19975) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:33:44.767-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:33:44.768-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:33:44.768-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:33:44.775-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:33:44.791-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:33:44.791-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:33:44.798-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:33:44.798-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:33:44.812-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2025-10-26T16:34:38.885-0300] {processor.py:161} INFO - Started process (PID=20061) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:34:38.886-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:34:38.888-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:34:38.887-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:34:38.894-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:34:38.910-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:34:38.910-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:34:38.917-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:34:38.917-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:34:38.931-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.050 seconds
+[2025-10-26T16:35:33.614-0300] {processor.py:161} INFO - Started process (PID=20166) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:35:33.617-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:35:33.619-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:35:33.618-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:35:33.626-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:35:33.644-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:35:33.644-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:35:33.653-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:35:33.653-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:35:33.667-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.058 seconds
+[2025-10-26T16:36:40.409-0300] {processor.py:161} INFO - Started process (PID=20257) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:36:40.410-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:36:40.411-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:36:40.411-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:36:40.417-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:36:40.433-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:36:40.433-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:36:40.441-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:36:40.440-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:36:40.454-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.050 seconds
+[2025-10-26T16:37:41.979-0300] {processor.py:161} INFO - Started process (PID=20368) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:37:41.981-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:37:41.983-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:37:41.982-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:37:41.989-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:37:42.005-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:37:42.005-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:37:42.013-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:37:42.013-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:37:42.027-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.052 seconds
+[2025-10-26T16:38:44.225-0300] {processor.py:161} INFO - Started process (PID=20457) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:38:44.227-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:38:44.229-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:38:44.228-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:38:44.235-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:38:44.251-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:38:44.251-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:38:44.258-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:38:44.258-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:38:44.272-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2025-10-26T16:39:43.047-0300] {processor.py:161} INFO - Started process (PID=20567) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:39:43.049-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:39:43.050-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:39:43.050-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:39:43.056-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:39:43.073-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:39:43.073-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:39:43.081-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:39:43.081-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:39:43.096-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.054 seconds
+[2025-10-26T16:40:47.032-0300] {processor.py:161} INFO - Started process (PID=20656) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:40:47.037-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:40:47.038-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:40:47.038-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:40:47.047-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:40:47.066-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:40:47.066-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:40:47.074-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:40:47.074-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:40:47.094-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.068 seconds
+[2025-10-26T16:41:49.680-0300] {processor.py:161} INFO - Started process (PID=20769) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:41:49.681-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:41:49.683-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:41:49.683-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:41:49.689-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:41:49.706-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:41:49.706-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:41:49.714-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:41:49.713-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:41:49.728-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.052 seconds
+[2025-10-26T16:42:56.130-0300] {processor.py:161} INFO - Started process (PID=20860) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:42:56.132-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:42:56.133-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:42:56.133-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:42:56.141-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:42:56.158-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:42:56.158-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:42:56.166-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:42:56.166-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:42:56.182-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.057 seconds
+[2025-10-26T16:43:57.482-0300] {processor.py:161} INFO - Started process (PID=20971) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:43:57.483-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:43:57.484-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:43:57.484-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:43:57.491-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:43:57.507-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:43:57.507-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:43:57.515-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:43:57.514-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:43:57.529-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2025-10-26T16:45:00.425-0300] {processor.py:161} INFO - Started process (PID=21061) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:45:00.427-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:45:00.428-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:45:00.428-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:45:00.435-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:45:00.451-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:45:00.450-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:45:00.458-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:45:00.458-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:45:00.471-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.050 seconds
+[2025-10-26T16:46:06.290-0300] {processor.py:161} INFO - Started process (PID=21174) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:46:06.293-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:46:06.294-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:46:06.294-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:46:06.302-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:46:06.322-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:46:06.321-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:46:06.331-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:46:06.331-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:46:06.348-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.063 seconds
+[2025-10-26T16:47:13.712-0300] {processor.py:161} INFO - Started process (PID=21267) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:47:13.714-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:47:13.716-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:47:13.715-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:47:13.722-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:47:13.739-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:47:13.739-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:47:13.747-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:47:13.746-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:47:13.762-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.053 seconds
+[2025-10-26T16:48:22.425-0300] {processor.py:161} INFO - Started process (PID=21381) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:48:22.426-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:48:22.428-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:48:22.427-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:48:22.435-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:48:22.452-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:48:22.452-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:48:22.466-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:48:22.465-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:48:22.576-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.155 seconds
+[2025-10-26T16:49:28.984-0300] {processor.py:161} INFO - Started process (PID=21474) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:49:28.986-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:49:28.987-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:49:28.987-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:49:28.996-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:49:29.014-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:49:29.014-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:49:29.022-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:49:29.022-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:49:29.132-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.153 seconds
+[2025-10-26T16:50:38.644-0300] {processor.py:161} INFO - Started process (PID=21590) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:50:38.646-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:50:38.647-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:50:38.647-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:50:38.654-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:50:38.671-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:50:38.670-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:50:38.678-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:50:38.678-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:50:38.692-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.052 seconds
+[2025-10-26T16:51:44.126-0300] {processor.py:161} INFO - Started process (PID=21680) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:51:44.128-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:51:44.130-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:51:44.129-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:51:44.136-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:51:44.155-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:51:44.154-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:51:44.164-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:51:44.163-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:51:44.180-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.058 seconds
+[2025-10-26T16:52:45.948-0300] {processor.py:161} INFO - Started process (PID=21791) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:52:45.950-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:52:45.951-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:52:45.951-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:52:45.958-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:52:45.975-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:52:45.975-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:52:45.983-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:52:45.983-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:52:45.999-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.055 seconds
+[2025-10-26T16:53:32.168-0300] {processor.py:161} INFO - Started process (PID=21863) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:53:32.170-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:53:32.171-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:53:32.171-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:53:32.178-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:53:32.194-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:53:32.194-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:53:32.201-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:53:32.201-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:53:32.215-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2025-10-26T16:54:34.303-0300] {processor.py:161} INFO - Started process (PID=21952) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:54:34.304-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:54:34.306-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:54:34.305-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:54:34.312-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:54:34.328-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:54:34.328-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:54:34.335-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:54:34.335-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:54:34.349-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.050 seconds
+[2025-10-26T16:55:39.896-0300] {processor.py:161} INFO - Started process (PID=22065) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:55:39.898-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:55:39.899-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:55:39.899-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:55:39.906-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:55:39.922-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:55:39.922-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:55:39.929-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:55:39.929-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:55:39.944-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2025-10-26T16:56:41.865-0300] {processor.py:161} INFO - Started process (PID=22153) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:56:41.867-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:56:41.869-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:56:41.869-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:56:41.875-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:56:41.892-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:56:41.892-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:56:41.900-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:56:41.900-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:56:41.915-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.054 seconds
+[2025-10-26T16:57:43.783-0300] {processor.py:161} INFO - Started process (PID=22265) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:57:43.784-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:57:43.786-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:57:43.786-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:57:43.793-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:57:43.810-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:57:43.810-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:57:43.819-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:57:43.819-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:57:43.833-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.054 seconds
+[2025-10-26T16:58:43.745-0300] {processor.py:161} INFO - Started process (PID=22353) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:58:43.747-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:58:43.748-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:58:43.748-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:58:43.755-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:58:43.775-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:58:43.775-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:58:43.785-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:58:43.785-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:58:43.801-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.061 seconds
+[2025-10-26T16:59:43.218-0300] {processor.py:161} INFO - Started process (PID=22463) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:59:43.219-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T16:59:43.221-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:59:43.221-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:59:43.228-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T16:59:43.245-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:59:43.244-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:59:43.252-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:59:43.252-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T16:59:43.267-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.053 seconds
+[2025-10-26T17:00:49.899-0300] {processor.py:161} INFO - Started process (PID=22554) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:00:49.901-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T17:00:49.903-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:00:49.902-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:00:49.910-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:00:49.928-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:00:49.928-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:00:49.937-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:00:49.936-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T17:00:49.953-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.058 seconds
+[2025-10-26T17:01:52.405-0300] {processor.py:161} INFO - Started process (PID=22666) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:01:52.407-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T17:01:52.408-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:01:52.408-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:01:52.415-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:01:52.432-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:01:52.432-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:01:52.440-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:01:52.440-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T17:01:52.454-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.054 seconds
+[2025-10-26T17:02:53.869-0300] {processor.py:161} INFO - Started process (PID=22754) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:02:53.871-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T17:02:53.873-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:02:53.872-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:02:53.879-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:02:53.896-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:02:53.896-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:02:53.904-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:02:53.904-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T17:02:53.919-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.055 seconds
+[2025-10-26T17:03:57.074-0300] {processor.py:161} INFO - Started process (PID=22866) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:03:57.075-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T17:03:57.077-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:03:57.077-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:03:57.083-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:03:57.100-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:03:57.100-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:03:57.108-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:03:57.108-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T17:03:57.123-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.054 seconds
+[2025-10-26T17:04:56.673-0300] {processor.py:161} INFO - Started process (PID=22954) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:04:56.675-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T17:04:56.677-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:04:56.677-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:04:56.684-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:04:56.701-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:04:56.701-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:04:56.710-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:04:56.709-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T17:04:56.724-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.055 seconds
+[2025-10-26T17:06:03.407-0300] {processor.py:161} INFO - Started process (PID=23068) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:06:03.409-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T17:06:03.411-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:06:03.410-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:06:03.417-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:06:03.435-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:06:03.435-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:06:03.444-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:06:03.444-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T17:06:03.460-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.057 seconds
+[2025-10-26T17:07:05.038-0300] {processor.py:161} INFO - Started process (PID=23156) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:07:05.040-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T17:07:05.041-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:07:05.041-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:07:05.047-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:07:05.064-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:07:05.064-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:07:05.073-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:07:05.073-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T17:07:05.088-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.055 seconds
+[2025-10-26T17:08:07.141-0300] {processor.py:161} INFO - Started process (PID=23268) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:08:07.143-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T17:08:07.144-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:08:07.144-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:08:07.151-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:08:07.171-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:08:07.170-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:08:07.178-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:08:07.178-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T17:08:07.192-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.056 seconds
+[2025-10-26T17:09:09.619-0300] {processor.py:161} INFO - Started process (PID=23357) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:09:09.620-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T17:09:09.622-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:09:09.622-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:09:09.628-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:09:09.645-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:09:09.645-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:09:09.653-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:09:09.652-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T17:09:09.667-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.052 seconds
+[2025-10-26T17:10:16.470-0300] {processor.py:161} INFO - Started process (PID=23474) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:10:16.471-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T17:10:16.473-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:10:16.472-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:10:16.479-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:10:16.496-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:10:16.495-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:10:16.503-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:10:16.503-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T17:10:16.519-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.054 seconds
+[2025-10-26T17:11:16.859-0300] {processor.py:161} INFO - Started process (PID=23562) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:11:16.860-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T17:11:16.861-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:11:16.861-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:11:16.868-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:11:16.884-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:11:16.884-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:11:16.892-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:11:16.892-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T17:11:16.907-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.052 seconds
+[2025-10-26T17:12:18.345-0300] {processor.py:161} INFO - Started process (PID=23673) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:12:18.347-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T17:12:18.348-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:12:18.348-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:12:18.355-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:12:18.373-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:12:18.373-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:12:18.382-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:12:18.381-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T17:12:18.396-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.056 seconds
+[2025-10-26T17:13:25.654-0300] {processor.py:161} INFO - Started process (PID=23765) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:13:25.656-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T17:13:25.657-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:13:25.657-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:13:25.663-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:13:25.680-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:13:25.679-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:13:25.687-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:13:25.687-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T17:13:25.704-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.055 seconds
+[2025-10-26T17:14:33.159-0300] {processor.py:161} INFO - Started process (PID=23881) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:14:33.161-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T17:14:33.162-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:14:33.162-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:14:33.168-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:14:33.184-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:14:33.184-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:14:33.192-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:14:33.192-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T17:14:33.207-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.052 seconds
+[2025-10-26T17:15:39.062-0300] {processor.py:161} INFO - Started process (PID=23971) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:15:39.064-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T17:15:39.065-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:15:39.065-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:15:39.071-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:15:39.087-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:15:39.087-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:15:39.095-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:15:39.094-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T17:15:39.109-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2025-10-26T17:16:40.961-0300] {processor.py:161} INFO - Started process (PID=24083) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:16:40.963-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T17:16:40.966-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:16:40.965-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:16:40.977-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:16:40.998-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:16:40.997-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:16:41.006-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:16:41.006-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T17:16:41.021-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.065 seconds
+[2025-10-26T17:17:39.608-0300] {processor.py:161} INFO - Started process (PID=24172) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:17:39.610-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T17:17:39.611-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:17:39.611-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:17:39.617-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:17:39.636-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:17:39.635-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:17:39.644-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:17:39.644-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T17:17:39.660-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.057 seconds
+[2025-10-26T17:18:42.173-0300] {processor.py:161} INFO - Started process (PID=24283) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:18:42.175-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T17:18:42.176-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:18:42.176-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:18:42.183-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:18:42.200-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:18:42.200-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:18:42.208-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:18:42.208-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T17:18:42.222-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.054 seconds
+[2025-10-26T17:19:45.813-0300] {processor.py:161} INFO - Started process (PID=24373) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:19:45.815-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T17:19:45.816-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:19:45.816-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:19:45.822-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:19:45.839-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:19:45.839-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:19:45.847-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:19:45.847-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T17:19:45.862-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.054 seconds
+[2025-10-26T17:20:52.122-0300] {processor.py:161} INFO - Started process (PID=24488) to work on /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:20:52.124-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-10-26T17:20:52.126-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:20:52.125-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:20:52.132-0300] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-10-26T17:20:52.150-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:20:52.150-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:20:52.159-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:20:52.159-0300] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-10-26T17:20:52.195-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.078 seconds

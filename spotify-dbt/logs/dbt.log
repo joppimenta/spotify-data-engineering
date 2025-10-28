@@ -1,0 +1,187 @@
+[0m11:35:14.730383 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7415b55cdee0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7415b317d6a0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7415b3b0de80>]}
+
+
+============================== 11:35:14.732842 | 6ea819b8-5ac0-4931-8d7b-c9c1e80b56f2 ==============================
+[0m11:35:14.732842 [info ] [MainThread]: Running with dbt=1.11.0-b3
+[0m11:35:14.733214 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'quiet': 'False', 'warn_error': 'None', 'fail_fast': 'False', 'introspect': 'True', 'indirect_selection': 'eager', 'no_print': 'None', 'cache_selected_only': 'False', 'version_check': 'True', 'log_cache_events': 'False', 'invocation_command': 'dbt init spotify_project', 'send_anonymous_usage_stats': 'True', 'log_format': 'default', 'log_path': 'logs', 'partial_parse': 'True', 'profiles_dir': '/home/joaosousa/.dbt', 'use_experimental_parser': 'False', 'empty': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'use_colors': 'True', 'target_path': 'None', 'debug': 'False', 'static_parser': 'True', 'write_json': 'True'}
+[0m11:35:14.739045 [info ] [MainThread]: Creating dbt configuration folder at /home/joaosousa/.dbt
+[0m11:35:14.740833 [debug] [MainThread]: Starter project path: /home/joaosousa/projects/spotify-project/spotify-dbt/venv/lib/python3.12/site-packages/dbt/include/starter_project
+[0m11:35:14.745537 [info ] [MainThread]: 
+Your new dbt project "spotify_project" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m11:35:14.745852 [info ] [MainThread]: Setting up your profile.
+[0m11:37:27.972284 [info ] [MainThread]: Profile spotify_project written to /home/joaosousa/.dbt/profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m11:37:27.974033 [debug] [MainThread]: Resource report: {"command_name": "init", "command_success": true, "command_wall_clock_time": 133.28308, "process_in_blocks": "2648", "process_kernel_time": 0.797401, "process_mem_max_rss": "361660", "process_out_blocks": "80", "process_user_time": 3.149333}
+[0m11:37:27.974691 [debug] [MainThread]: Command `dbt init` succeeded at 11:37:27.974605 after 133.28 seconds
+[0m11:37:27.974964 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7415b3b63f20>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7415b2d329f0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x74157efb7800>]}
+[0m11:37:27.975291 [debug] [MainThread]: Flushing usage events
+[0m11:37:28.474129 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m11:37:38.800975 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x715dfc29dc10>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x715dfa6495b0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x715df9b969c0>]}
+
+
+============================== 11:37:38.804375 | bcd15dc9-fb12-4e05-88e1-b8316f3a3c89 ==============================
+[0m11:37:38.804375 [info ] [MainThread]: Running with dbt=1.11.0-b3
+[0m11:37:38.804770 [debug] [MainThread]: running dbt with arguments {'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'quiet': 'False', 'cache_selected_only': 'False', 'target_path': 'None', 'empty': 'None', 'no_print': 'None', 'profiles_dir': '/home/joaosousa/.dbt', 'static_parser': 'True', 'version_check': 'True', 'warn_error': 'None', 'invocation_command': 'dbt debug', 'fail_fast': 'False', 'log_format': 'default', 'introspect': 'True', 'debug': 'False', 'partial_parse': 'True', 'log_cache_events': 'False', 'log_path': 'logs', 'send_anonymous_usage_stats': 'True', 'use_experimental_parser': 'False', 'use_colors': 'True', 'write_json': 'True', 'indirect_selection': 'eager', 'printer_width': '80'}
+[0m11:37:38.818866 [info ] [MainThread]: dbt version: 1.11.0-b3
+[0m11:37:38.819273 [info ] [MainThread]: python version: 3.12.3
+[0m11:37:38.819530 [info ] [MainThread]: python path: /home/joaosousa/projects/spotify-project/spotify-dbt/venv/bin/python3
+[0m11:37:38.819768 [info ] [MainThread]: os info: Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39
+[0m11:37:41.195099 [info ] [MainThread]: Using profiles dir at /home/joaosousa/.dbt
+[0m11:37:41.195484 [info ] [MainThread]: Using profiles.yml file at /home/joaosousa/.dbt/profiles.yml
+[0m11:37:41.195735 [info ] [MainThread]: Using dbt_project.yml file at /home/joaosousa/projects/spotify-project/spotify-dbt/dbt_project.yml
+[0m11:37:41.195993 [info ] [MainThread]: adapter type: bigquery
+[0m11:37:41.196231 [info ] [MainThread]: adapter version: 1.10.2
+[0m11:37:41.196498 [info ] [MainThread]: Configuration:
+[0m11:37:41.196707 [info ] [MainThread]:   profiles.yml file [[32mOK found and valid[0m]
+[0m11:37:41.196910 [info ] [MainThread]:   dbt_project.yml file [[31mERROR not found[0m]
+[0m11:37:41.197114 [info ] [MainThread]: Required dependencies:
+[0m11:37:41.197366 [debug] [MainThread]: Executing "git --help"
+[0m11:37:41.209190 [debug] [MainThread]: STDOUT: "b"usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\n           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]\n           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]\n           [--config-env=<name>=<envvar>] <command> [<args>]\n\nThese are common Git commands used in various situations:\n\nstart a working area (see also: git help tutorial)\n   clone     Clone a repository into a new directory\n   init      Create an empty Git repository or reinitialize an existing one\n\nwork on the current change (see also: git help everyday)\n   add       Add file contents to the index\n   mv        Move or rename a file, a directory, or a symlink\n   restore   Restore working tree files\n   rm        Remove files from the working tree and from the index\n\nexamine the history and state (see also: git help revisions)\n   bisect    Use binary search to find the commit that introduced a bug\n   diff      Show changes between commits, commit and working tree, etc\n   grep      Print lines matching a pattern\n   log       Show commit logs\n   show      Show various types of objects\n   status    Show the working tree status\n\ngrow, mark and tweak your common history\n   branch    List, create, or delete branches\n   commit    Record changes to the repository\n   merge     Join two or more development histories together\n   rebase    Reapply commits on top of another base tip\n   reset     Reset current HEAD to the specified state\n   switch    Switch branches\n   tag       Create, list, delete or verify a tag object signed with GPG\n\ncollaborate (see also: git help workflows)\n   fetch     Download objects and refs from another repository\n   pull      Fetch from and integrate with another repository or a local branch\n   push      Update remote refs along with associated objects\n\n'git help -a' and 'git help -g' list available subcommands and some\nconcept guides. See 'git help <command>' or 'git help <concept>'\nto read about a specific subcommand or concept.\nSee 'git help git' for an overview of the system.\n""
+[0m11:37:41.209614 [debug] [MainThread]: STDERR: "b''"
+[0m11:37:41.209812 [info ] [MainThread]:  - git [[32mOK found[0m]
+
+[0m11:37:41.210042 [info ] [MainThread]: Connection:
+[0m11:37:41.210284 [info ] [MainThread]:   method: oauth
+[0m11:37:41.210503 [info ] [MainThread]:   database: my-spotify-475819
+[0m11:37:41.210706 [info ] [MainThread]:   execution_project: my-spotify-475819
+[0m11:37:41.210907 [info ] [MainThread]:   schema: datalake
+[0m11:37:41.211105 [info ] [MainThread]:   location: US
+[0m11:37:41.211340 [info ] [MainThread]:   priority: interactive
+[0m11:37:41.211544 [info ] [MainThread]:   maximum_bytes_billed: None
+[0m11:37:41.211743 [info ] [MainThread]:   impersonate_service_account: None
+[0m11:37:41.211942 [info ] [MainThread]:   job_retry_deadline_seconds: None
+[0m11:37:41.212137 [info ] [MainThread]:   job_retries: 1
+[0m11:37:41.212348 [info ] [MainThread]:   job_creation_timeout_seconds: None
+[0m11:37:41.212548 [info ] [MainThread]:   job_execution_timeout_seconds: 300
+[0m11:37:41.212745 [info ] [MainThread]:   timeout_seconds: 300
+[0m11:37:41.212940 [info ] [MainThread]:   client_id: None
+[0m11:37:41.213135 [info ] [MainThread]:   token_uri: None
+[0m11:37:41.213408 [info ] [MainThread]:   compute_region: None
+[0m11:37:41.213606 [info ] [MainThread]:   dataproc_cluster_name: None
+[0m11:37:41.213826 [info ] [MainThread]:   gcs_bucket: None
+[0m11:37:41.214033 [info ] [MainThread]:   dataproc_batch: None
+[0m11:37:41.214376 [info ] [MainThread]: Registered adapter: bigquery=1.10.2
+[0m11:37:41.408829 [debug] [MainThread]: Acquiring new bigquery connection 'debug'
+[0m11:37:41.409156 [debug] [MainThread]: On debug: select 1 as id
+[0m11:37:41.409423 [debug] [MainThread]: Opening a new connection, currently in state init
+[0m11:37:53.652877 [debug] [MainThread]: BigQuery adapter: Got an error when attempting to create a bigquery " "client: 'Runtime Error
+  Failed to authenticate with supplied credentials
+  error:
+  Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.'
+[0m11:37:53.653533 [debug] [MainThread]: BigQuery adapter: Unhandled error while running:
+select 1 as id
+[0m11:37:53.653772 [debug] [MainThread]: BigQuery adapter: Database Error
+  Runtime Error
+    Failed to authenticate with supplied credentials
+    error:
+    Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+[0m11:37:53.654044 [info ] [MainThread]:   Connection test: [[31mERROR[0m]
+
+[0m11:37:53.654441 [info ] [MainThread]: [31m2 checks failed:[0m
+[0m11:37:53.654710 [info ] [MainThread]: Project loading failed for the following reason:
+ project path </home/joaosousa/projects/spotify-project/spotify-dbt/dbt_project.yml> not found
+
+[0m11:37:53.655005 [info ] [MainThread]: dbt was unable to connect to the specified database.
+The database returned the following error:
+
+  >'NoneType' object has no attribute 'close'
+
+Check your database credentials and try again. For more information, visit:
+https://docs.getdbt.com/docs/configure-your-profile
+
+
+[0m11:37:53.655986 [debug] [MainThread]: Resource report: {"command_name": "debug", "command_success": false, "command_wall_clock_time": 14.895486, "process_in_blocks": "249664", "process_kernel_time": 0.739522, "process_mem_max_rss": "364400", "process_out_blocks": "40", "process_user_time": 3.327852}
+[0m11:37:53.656494 [debug] [MainThread]: Command `dbt debug` failed at 11:37:53.656420 after 14.90 seconds
+[0m11:37:53.656759 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x715dfc3ba3c0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x715dc5ffd640>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x715dc5a39280>]}
+[0m11:37:53.657102 [debug] [MainThread]: Flushing usage events
+[0m11:37:54.002066 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m19:54:11.169112 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7b33c4c83a10>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7b33c4c9fef0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7b33c4c9fcb0>]}
+
+
+============================== 19:54:11.174106 | 5e9729d7-8fb7-4ece-8ba5-b68912bc3574 ==============================
+[0m19:54:11.174106 [info ] [MainThread]: Running with dbt=1.11.0-b3
+[0m19:54:11.174514 [debug] [MainThread]: running dbt with arguments {'indirect_selection': 'eager', 'send_anonymous_usage_stats': 'True', 'debug': 'False', 'cache_selected_only': 'False', 'fail_fast': 'False', 'use_colors': 'True', 'version_check': 'True', 'write_json': 'True', 'profiles_dir': '/home/joaosousa/.dbt', 'log_format': 'default', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'no_print': 'None', 'log_path': 'logs', 'empty': 'None', 'log_cache_events': 'False', 'partial_parse': 'True', 'use_experimental_parser': 'False', 'warn_error': 'None', 'printer_width': '80', 'quiet': 'False', 'static_parser': 'True', 'introspect': 'True', 'target_path': 'None', 'invocation_command': 'dbt debug'}
+[0m19:54:11.188800 [info ] [MainThread]: dbt version: 1.11.0-b3
+[0m19:54:11.189230 [info ] [MainThread]: python version: 3.12.3
+[0m19:54:11.189510 [info ] [MainThread]: python path: /home/joaosousa/projects/spotify-project/spotify-dbt/venv/bin/python3
+[0m19:54:11.189772 [info ] [MainThread]: os info: Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39
+[0m19:54:13.988036 [info ] [MainThread]: Using profiles dir at /home/joaosousa/.dbt
+[0m19:54:13.988630 [info ] [MainThread]: Using profiles.yml file at /home/joaosousa/.dbt/profiles.yml
+[0m19:54:13.989015 [info ] [MainThread]: Using dbt_project.yml file at /home/joaosousa/projects/spotify-project/spotify-dbt/dbt_project.yml
+[0m19:54:13.989307 [info ] [MainThread]: adapter type: bigquery
+[0m19:54:13.989541 [info ] [MainThread]: adapter version: 1.10.2
+[0m19:54:13.989780 [info ] [MainThread]: Configuration:
+[0m19:54:13.990000 [info ] [MainThread]:   profiles.yml file [[32mOK found and valid[0m]
+[0m19:54:13.990240 [info ] [MainThread]:   dbt_project.yml file [[31mERROR not found[0m]
+[0m19:54:13.990461 [info ] [MainThread]: Required dependencies:
+[0m19:54:13.990746 [debug] [MainThread]: Executing "git --help"
+[0m19:54:14.002686 [debug] [MainThread]: STDOUT: "b"usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\n           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]\n           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]\n           [--config-env=<name>=<envvar>] <command> [<args>]\n\nThese are common Git commands used in various situations:\n\nstart a working area (see also: git help tutorial)\n   clone     Clone a repository into a new directory\n   init      Create an empty Git repository or reinitialize an existing one\n\nwork on the current change (see also: git help everyday)\n   add       Add file contents to the index\n   mv        Move or rename a file, a directory, or a symlink\n   restore   Restore working tree files\n   rm        Remove files from the working tree and from the index\n\nexamine the history and state (see also: git help revisions)\n   bisect    Use binary search to find the commit that introduced a bug\n   diff      Show changes between commits, commit and working tree, etc\n   grep      Print lines matching a pattern\n   log       Show commit logs\n   show      Show various types of objects\n   status    Show the working tree status\n\ngrow, mark and tweak your common history\n   branch    List, create, or delete branches\n   commit    Record changes to the repository\n   merge     Join two or more development histories together\n   rebase    Reapply commits on top of another base tip\n   reset     Reset current HEAD to the specified state\n   switch    Switch branches\n   tag       Create, list, delete or verify a tag object signed with GPG\n\ncollaborate (see also: git help workflows)\n   fetch     Download objects and refs from another repository\n   pull      Fetch from and integrate with another repository or a local branch\n   push      Update remote refs along with associated objects\n\n'git help -a' and 'git help -g' list available subcommands and some\nconcept guides. See 'git help <command>' or 'git help <concept>'\nto read about a specific subcommand or concept.\nSee 'git help git' for an overview of the system.\n""
+[0m19:54:14.003013 [debug] [MainThread]: STDERR: "b''"
+[0m19:54:14.003255 [info ] [MainThread]:  - git [[32mOK found[0m]
+
+[0m19:54:14.003506 [info ] [MainThread]: Connection:
+[0m19:54:14.003785 [info ] [MainThread]:   method: oauth
+[0m19:54:14.004008 [info ] [MainThread]:   database: my-spotify-475819
+[0m19:54:14.004247 [info ] [MainThread]:   execution_project: my-spotify-475819
+[0m19:54:14.004527 [info ] [MainThread]:   schema: datalake
+[0m19:54:14.004748 [info ] [MainThread]:   location: US
+[0m19:54:14.004961 [info ] [MainThread]:   priority: interactive
+[0m19:54:14.005324 [info ] [MainThread]:   maximum_bytes_billed: None
+[0m19:54:14.005595 [info ] [MainThread]:   impersonate_service_account: None
+[0m19:54:14.005826 [info ] [MainThread]:   job_retry_deadline_seconds: None
+[0m19:54:14.006179 [info ] [MainThread]:   job_retries: 1
+[0m19:54:14.006422 [info ] [MainThread]:   job_creation_timeout_seconds: None
+[0m19:54:14.006673 [info ] [MainThread]:   job_execution_timeout_seconds: 300
+[0m19:54:14.006912 [info ] [MainThread]:   timeout_seconds: 300
+[0m19:54:14.007127 [info ] [MainThread]:   client_id: None
+[0m19:54:14.007350 [info ] [MainThread]:   token_uri: None
+[0m19:54:14.007560 [info ] [MainThread]:   compute_region: None
+[0m19:54:14.007770 [info ] [MainThread]:   dataproc_cluster_name: None
+[0m19:54:14.007979 [info ] [MainThread]:   gcs_bucket: None
+[0m19:54:14.008187 [info ] [MainThread]:   dataproc_batch: None
+[0m19:54:14.008553 [info ] [MainThread]: Registered adapter: bigquery=1.10.2
+[0m19:54:14.204325 [debug] [MainThread]: Acquiring new bigquery connection 'debug'
+[0m19:54:14.204696 [debug] [MainThread]: On debug: select 1 as id
+[0m19:54:14.204926 [debug] [MainThread]: Opening a new connection, currently in state init
+[0m19:54:16.377215 [debug] [MainThread]: BigQuery adapter: https://console.cloud.google.com/bigquery?project=my-spotify-475819&j=bq:US:bfa3cbf0-7195-466d-9ebc-acd688d59e5e&page=queryresults
+[0m19:54:17.081226 [info ] [MainThread]:   Connection test: [[32mOK connection ok[0m]
+
+[0m19:54:17.081832 [info ] [MainThread]: [31m1 check failed:[0m
+[0m19:54:17.082188 [info ] [MainThread]: Project loading failed for the following reason:
+ project path </home/joaosousa/projects/spotify-project/spotify-dbt/dbt_project.yml> not found
+
+[0m19:54:17.085482 [debug] [MainThread]: Resource report: {"command_name": "debug", "command_success": false, "command_wall_clock_time": 5.958171, "process_in_blocks": "404624", "process_kernel_time": 1.03573, "process_mem_max_rss": "368420", "process_out_blocks": "32", "process_user_time": 3.380173}
+[0m19:54:17.086002 [debug] [MainThread]: Command `dbt debug` failed at 19:54:17.085893 after 5.96 seconds
+[0m19:54:17.086403 [debug] [MainThread]: Connection 'debug' was properly closed.
+[0m19:54:17.086796 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7b33c497dee0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7b33c3e1e1e0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7b33901cd790>]}
+[0m19:54:17.087224 [debug] [MainThread]: Flushing usage events
+[0m19:54:17.643534 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m19:54:41.998115 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x785239c3ec90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x78523a40e5a0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x78523a3b6e70>]}
+
+
+============================== 19:54:42.000683 | 99009d1e-af6f-4d7f-b8bc-60e07d7f23ee ==============================
+[0m19:54:42.000683 [info ] [MainThread]: Running with dbt=1.11.0-b3
+[0m19:54:42.001060 [debug] [MainThread]: running dbt with arguments {'introspect': 'True', 'warn_error': 'None', 'empty': 'False', 'partial_parse': 'True', 'fail_fast': 'False', 'log_cache_events': 'False', 'use_experimental_parser': 'False', 'send_anonymous_usage_stats': 'True', 'quiet': 'False', 'version_check': 'True', 'no_print': 'None', 'log_path': 'logs', 'static_parser': 'True', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'printer_width': '80', 'use_colors': 'True', 'target_path': 'None', 'profiles_dir': '/home/joaosousa/.dbt', 'debug': 'False', 'write_json': 'True', 'cache_selected_only': 'False', 'log_format': 'default', 'invocation_command': 'dbt run --select listened_tracks', 'indirect_selection': 'eager'}
+[0m19:54:42.001404 [error] [MainThread]: Encountered an error:
+Runtime Error
+  No dbt_project.yml found at expected path /home/joaosousa/projects/spotify-project/spotify-dbt/dbt_project.yml
+  Verify that each entry within packages.yml (and their transitive dependencies) contains a file named dbt_project.yml
+  
+[0m19:54:42.002071 [debug] [MainThread]: Resource report: {"command_name": "run", "command_success": false, "command_wall_clock_time": 0.045262344, "process_in_blocks": "0", "process_kernel_time": 0.15534, "process_mem_max_rss": "98680", "process_out_blocks": "16", "process_user_time": 0.979842}
+[0m19:54:42.002410 [debug] [MainThread]: Command `dbt run` failed at 19:54:42.002335 after 0.05 seconds
+[0m19:54:42.002629 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x785239c62930>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x78523a21f9e0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x785239bc3920>]}
+[0m19:54:42.002859 [debug] [MainThread]: Flushing usage events
+[0m19:54:42.343242 [debug] [MainThread]: An error was encountered while trying to flush usage events

@@ -1,0 +1,27 @@
+version: 2
+
+sources:
+  # Dados brutos da API (landing)
+  - name: landing
+    description: "Camada bruta contendo dados JSON da API do Spotify"
+    database: my-spotify-475819
+    schema: landing
+
+    tables:
+      - name: landing_spotify_tracks
+        description: "Dados originais das faixas da API do Spotify (formato JSON)"
+        columns:
+          - name: track
+            description: "Objeto JSON completo da faixa"
+            tests:
+              - not_null
+          - name: played_at
+            description: "Timestamp de reprodução"
+            tests:
+              - not_null
+          - name: context
+            description: "Contexto da reprodução"
+          - name: load_datetime
+            description: "Timestamp de ingestão"
+            tests:
+              - not_null
