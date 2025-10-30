@@ -1,0 +1,33 @@
+name: 'spotify_project'
+version: '1.0.0'
+config-version: 2
+
+profile: 'spotify_project'
+
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+models:
+  spotify_project:
+    landing:
+      +materialized: view
+      +database: my-spotify-475819
+      +schema: landing
+    
+    staging:
+      +materialized: table
+      +database: my-spotify-475819
+      +schema: datalake
+    
+    datamart:
+      +materialized: table
+      +database: my-spotify-475819
+      +schema: datawarehouse

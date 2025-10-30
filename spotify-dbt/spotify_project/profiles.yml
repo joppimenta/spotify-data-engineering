@@ -1,0 +1,23 @@
+spotify_project:
+  outputs:
+    dev:
+      type: bigquery
+      method: oauth
+      project: my-spotify-475819
+      dataset: datalake
+      keyfile: /tmp/gcp-key.json
+      threads: 1
+      timeout_seconds: 300
+      location: US
+
+    prod:
+      type: bigquery
+      method: oauth
+      project: my-spotify-475819
+      dataset: production
+      keyfile: /tmp/gcp-key.json
+      threads: 1
+      timeout_seconds: 300
+      location: US
+
+  target: dev

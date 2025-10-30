@@ -1,0 +1,924 @@
+[2025-10-26T15:42:57.396-0300] {processor.py:161} INFO - Started process (PID=15407) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:42:57.397-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T15:42:57.398-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:42:57.398-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:42:57.899-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:42:57.949-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:42:57.949-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:42:57.958-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:42:57.957-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T15:42:57.971-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.578 seconds
+[2025-10-26T15:44:32.233-0300] {processor.py:161} INFO - Started process (PID=15593) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:44:32.234-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T15:44:32.235-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:44:32.235-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:44:32.740-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:44:32.747-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:44:32.747-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:44:32.758-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:44:32.758-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T15:44:32.772-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.543 seconds
+[2025-10-26T15:45:04.269-0300] {processor.py:161} INFO - Started process (PID=15641) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:45:04.270-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T15:45:04.271-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:45:04.271-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:45:04.762-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:45:04.769-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:45:04.769-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:45:04.780-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:45:04.780-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T15:45:04.792-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.527 seconds
+[2025-10-26T15:45:56.612-0300] {processor.py:161} INFO - Started process (PID=15715) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:45:56.613-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T15:45:56.614-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:45:56.614-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:45:57.184-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:45:57.193-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:45:57.193-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:45:57.204-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:45:57.204-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T15:45:57.219-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.611 seconds
+[2025-10-26T15:46:47.435-0300] {processor.py:161} INFO - Started process (PID=15787) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:46:47.437-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T15:46:47.438-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:46:47.438-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:46:47.931-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:46:47.938-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:46:47.938-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:46:47.948-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:46:47.948-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T15:46:47.961-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.530 seconds
+[2025-10-26T15:47:40.541-0300] {processor.py:161} INFO - Started process (PID=15861) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:47:40.543-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T15:47:40.544-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:47:40.544-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:47:41.052-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:47:41.134-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:47:41.134-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:47:41.145-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:47:41.145-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T15:47:41.158-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.621 seconds
+[2025-10-26T15:48:23.408-0300] {processor.py:161} INFO - Started process (PID=15928) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:48:23.410-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T15:48:23.411-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:48:23.411-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:48:23.996-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:48:24.003-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:48:24.003-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:48:24.015-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:48:24.014-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T15:48:24.028-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.624 seconds
+[2025-10-26T15:49:19.422-0300] {processor.py:161} INFO - Started process (PID=16000) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:49:19.424-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T15:49:19.425-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:49:19.425-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:49:20.039-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:49:20.046-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:49:20.046-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:49:20.057-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:49:20.057-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T15:49:20.071-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.653 seconds
+[2025-10-26T15:50:10.506-0300] {processor.py:161} INFO - Started process (PID=16074) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:50:10.508-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T15:50:10.509-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:50:10.509-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:50:11.000-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:50:11.006-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:50:11.006-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:50:11.016-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:50:11.016-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T15:50:11.029-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.527 seconds
+[2025-10-26T15:50:58.207-0300] {processor.py:161} INFO - Started process (PID=16145) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:50:58.209-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T15:50:58.210-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:50:58.210-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:50:58.729-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:50:58.736-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:50:58.736-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:50:58.746-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:50:58.746-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T15:50:58.761-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.557 seconds
+[2025-10-26T15:51:48.127-0300] {processor.py:161} INFO - Started process (PID=16214) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:51:48.127-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T15:51:48.129-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:51:48.128-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:51:48.816-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:51:48.826-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:51:48.825-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:51:48.838-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:51:48.838-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T15:51:48.860-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.738 seconds
+[2025-10-26T15:52:39.454-0300] {processor.py:161} INFO - Started process (PID=16288) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:52:39.456-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T15:52:39.457-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:52:39.457-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:52:39.961-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:52:39.968-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:52:39.968-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:52:39.978-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:52:39.977-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T15:52:39.990-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.541 seconds
+[2025-10-26T15:53:34.688-0300] {processor.py:161} INFO - Started process (PID=16362) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:53:34.690-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T15:53:34.691-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:53:34.691-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:53:35.263-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:53:35.272-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:53:35.271-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:53:35.282-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:53:35.282-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T15:53:35.297-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.613 seconds
+[2025-10-26T15:54:28.210-0300] {processor.py:161} INFO - Started process (PID=16437) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:54:28.212-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T15:54:28.213-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:54:28.213-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:54:28.795-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:54:28.809-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:54:28.809-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:54:28.820-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:54:28.820-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T15:54:28.832-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.627 seconds
+[2025-10-26T15:55:17.828-0300] {processor.py:161} INFO - Started process (PID=16508) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:55:17.829-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T15:55:17.830-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:55:17.830-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:55:18.339-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:55:18.345-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:55:18.345-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:55:18.356-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:55:18.356-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T15:55:18.368-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.545 seconds
+[2025-10-26T15:56:02.273-0300] {processor.py:161} INFO - Started process (PID=16576) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:56:02.275-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T15:56:02.276-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:56:02.276-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:56:02.773-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:56:02.781-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:56:02.780-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:56:02.791-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:56:02.791-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T15:56:02.806-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.537 seconds
+[2025-10-26T15:56:57.508-0300] {processor.py:161} INFO - Started process (PID=16649) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:56:57.510-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T15:56:57.511-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:56:57.511-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:56:58.008-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:56:58.015-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:56:58.015-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:56:58.026-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:56:58.026-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T15:56:58.038-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.535 seconds
+[2025-10-26T15:57:44.997-0300] {processor.py:161} INFO - Started process (PID=16722) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:57:44.999-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T15:57:45.000-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:57:45.000-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:57:45.490-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:57:45.497-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:57:45.496-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:57:45.507-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:57:45.507-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T15:57:45.520-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.526 seconds
+[2025-10-26T15:58:32.983-0300] {processor.py:161} INFO - Started process (PID=16793) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:58:32.985-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T15:58:32.987-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:58:32.986-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:58:33.492-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:58:33.500-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:58:33.500-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:58:33.511-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:58:33.511-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T15:58:33.524-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.545 seconds
+[2025-10-26T15:59:22.510-0300] {processor.py:161} INFO - Started process (PID=16862) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:59:22.512-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T15:59:22.513-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:59:22.513-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:59:23.019-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T15:59:23.026-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:59:23.026-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T15:59:23.038-0300] {logging_mixin.py:188} INFO - [2025-10-26T15:59:23.037-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T15:59:23.050-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.545 seconds
+[2025-10-26T16:00:10.321-0300] {processor.py:161} INFO - Started process (PID=16931) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:00:10.322-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:00:10.324-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:00:10.324-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:00:10.793-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:00:10.799-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:00:10.799-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:00:10.809-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:00:10.808-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:00:10.820-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.503 seconds
+[2025-10-26T16:01:06.041-0300] {processor.py:161} INFO - Started process (PID=17006) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:01:06.042-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:01:06.044-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:01:06.043-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:01:06.544-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:01:06.551-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:01:06.551-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:01:06.560-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:01:06.560-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:01:06.572-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.535 seconds
+[2025-10-26T16:01:56.401-0300] {processor.py:161} INFO - Started process (PID=17076) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:01:56.403-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:01:56.404-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:01:56.404-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:01:56.888-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:01:56.895-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:01:56.895-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:01:56.906-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:01:56.906-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:01:56.919-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.522 seconds
+[2025-10-26T16:02:49.245-0300] {processor.py:161} INFO - Started process (PID=17150) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:02:49.247-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:02:49.248-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:02:49.248-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:02:49.785-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:02:49.793-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:02:49.792-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:02:49.803-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:02:49.803-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:02:49.818-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.577 seconds
+[2025-10-26T16:03:38.310-0300] {processor.py:161} INFO - Started process (PID=17223) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:03:38.311-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:03:38.312-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:03:38.311-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:03:38.814-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:03:38.820-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:03:38.820-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:03:38.831-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:03:38.831-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:03:38.844-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.538 seconds
+[2025-10-26T16:04:33.050-0300] {processor.py:161} INFO - Started process (PID=17297) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:04:33.052-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:04:33.053-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:04:33.052-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:04:33.554-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:04:33.562-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:04:33.562-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:04:33.573-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:04:33.573-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:04:33.586-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.540 seconds
+[2025-10-26T16:05:24.112-0300] {processor.py:161} INFO - Started process (PID=17370) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:05:24.113-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:05:24.114-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:05:24.114-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:05:24.575-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:05:24.581-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:05:24.581-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:05:24.591-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:05:24.591-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:05:24.604-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.495 seconds
+[2025-10-26T16:06:12.763-0300] {processor.py:161} INFO - Started process (PID=17442) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:06:12.765-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:06:12.766-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:06:12.766-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:06:16.179-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:06:16.190-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:06:16.190-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:06:16.201-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:06:16.201-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:06:16.215-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.560 seconds
+[2025-10-26T16:07:02.505-0300] {processor.py:161} INFO - Started process (PID=17511) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:07:02.506-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:07:02.508-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:07:02.507-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:07:02.971-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:07:02.978-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:07:02.977-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:07:02.987-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:07:02.987-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:07:02.999-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.498 seconds
+[2025-10-26T16:07:55.079-0300] {processor.py:161} INFO - Started process (PID=17586) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:07:55.080-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:07:55.081-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:07:55.081-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:07:55.566-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:07:55.572-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:07:55.572-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:07:55.583-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:07:55.583-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:07:55.594-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.519 seconds
+[2025-10-26T16:08:41.745-0300] {processor.py:161} INFO - Started process (PID=17655) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:08:41.747-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:08:41.748-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:08:41.748-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:08:42.217-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:08:42.224-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:08:42.224-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:08:42.233-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:08:42.232-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:08:42.245-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.504 seconds
+[2025-10-26T16:09:31.093-0300] {processor.py:161} INFO - Started process (PID=17725) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:09:31.094-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:09:31.095-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:09:31.094-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:09:31.582-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:09:31.589-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:09:31.589-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:09:31.598-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:09:31.598-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:09:31.610-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.521 seconds
+[2025-10-26T16:10:26.070-0300] {processor.py:161} INFO - Started process (PID=17800) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:10:26.072-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:10:26.074-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:10:26.073-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:10:26.545-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:10:26.552-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:10:26.552-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:10:26.562-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:10:26.562-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:10:26.573-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.506 seconds
+[2025-10-26T16:11:17.038-0300] {processor.py:161} INFO - Started process (PID=17872) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:11:17.046-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:11:17.047-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:11:17.046-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:11:17.603-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:11:17.611-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:11:17.610-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:11:17.623-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:11:17.623-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:11:17.637-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.603 seconds
+[2025-10-26T16:12:12.756-0300] {processor.py:161} INFO - Started process (PID=17946) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:12:12.757-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:12:12.758-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:12:12.758-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:12:13.271-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:12:13.279-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:12:13.278-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:12:13.290-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:12:13.290-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:12:13.305-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.553 seconds
+[2025-10-26T16:13:01.715-0300] {processor.py:161} INFO - Started process (PID=18019) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:13:01.716-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:13:01.717-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:13:01.717-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:13:02.266-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:13:02.274-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:13:02.274-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:13:02.286-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:13:02.286-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:13:02.300-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.589 seconds
+[2025-10-26T16:13:50.103-0300] {processor.py:161} INFO - Started process (PID=18091) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:13:50.105-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:13:50.106-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:13:50.106-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:13:50.683-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:13:50.691-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:13:50.691-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:13:50.702-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:13:50.702-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:13:50.714-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.616 seconds
+[2025-10-26T16:14:33.685-0300] {processor.py:161} INFO - Started process (PID=18158) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:14:33.686-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:14:33.687-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:14:33.687-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:14:34.190-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:14:34.198-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:14:34.198-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:14:34.209-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:14:34.209-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:14:34.222-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.541 seconds
+[2025-10-26T16:15:17.083-0300] {processor.py:161} INFO - Started process (PID=18226) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:15:17.086-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:15:17.087-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:15:17.087-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:15:17.607-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:15:17.614-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:15:17.614-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:15:17.625-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:15:17.625-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:15:17.639-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.560 seconds
+[2025-10-26T16:16:02.856-0300] {processor.py:161} INFO - Started process (PID=18295) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:16:02.857-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:16:02.859-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:16:02.858-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:16:03.340-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:16:03.347-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:16:03.347-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:16:03.356-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:16:03.356-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:16:03.369-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.517 seconds
+[2025-10-26T16:16:47.877-0300] {processor.py:161} INFO - Started process (PID=18364) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:16:47.879-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:16:47.880-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:16:47.880-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:16:48.447-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:16:48.455-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:16:48.454-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:16:48.466-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:16:48.466-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:16:48.479-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.607 seconds
+[2025-10-26T16:17:30.951-0300] {processor.py:161} INFO - Started process (PID=18436) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:17:30.953-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:17:30.954-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:17:30.954-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:17:31.459-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:17:31.467-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:17:31.466-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:17:31.477-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:17:31.477-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:17:31.491-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.545 seconds
+[2025-10-26T16:18:16.027-0300] {processor.py:161} INFO - Started process (PID=18505) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:18:16.030-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:18:16.031-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:18:16.031-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:18:16.516-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:18:16.523-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:18:16.523-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:18:16.534-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:18:16.534-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:18:16.547-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.524 seconds
+[2025-10-26T16:18:59.265-0300] {processor.py:161} INFO - Started process (PID=18572) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:18:59.265-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:18:59.267-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:18:59.266-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:18:59.803-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:18:59.811-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:18:59.811-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:18:59.822-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:18:59.822-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:18:59.835-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.575 seconds
+[2025-10-26T16:19:47.631-0300] {processor.py:161} INFO - Started process (PID=18643) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:19:47.633-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:19:47.634-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:19:47.634-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:19:48.144-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:19:48.151-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:19:48.151-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:19:48.162-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:19:48.162-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:19:48.175-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.549 seconds
+[2025-10-26T16:20:35.162-0300] {processor.py:161} INFO - Started process (PID=18714) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:20:35.164-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:20:35.165-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:20:35.165-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:20:35.629-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:20:35.636-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:20:35.636-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:20:35.645-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:20:35.645-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:20:35.657-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.499 seconds
+[2025-10-26T16:21:18.711-0300] {processor.py:161} INFO - Started process (PID=18783) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:21:18.714-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:21:18.715-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:21:18.715-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:21:19.231-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:21:19.239-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:21:19.239-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:21:19.250-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:21:19.250-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:21:19.266-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.559 seconds
+[2025-10-26T16:22:02.848-0300] {processor.py:161} INFO - Started process (PID=18851) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:22:02.850-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:22:02.852-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:22:02.851-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:22:03.352-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:22:03.360-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:22:03.359-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:22:03.371-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:22:03.371-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:22:03.384-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.540 seconds
+[2025-10-26T16:22:49.840-0300] {processor.py:161} INFO - Started process (PID=18921) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:22:49.842-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:22:49.844-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:22:49.843-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:22:50.354-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:22:50.363-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:22:50.362-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:22:50.374-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:22:50.374-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:22:50.388-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.552 seconds
+[2025-10-26T16:23:34.561-0300] {processor.py:161} INFO - Started process (PID=18990) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:23:34.563-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:23:34.564-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:23:34.564-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:23:35.065-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:23:35.072-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:23:35.072-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:23:35.083-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:23:35.083-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:23:35.096-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.539 seconds
+[2025-10-26T16:24:17.963-0300] {processor.py:161} INFO - Started process (PID=19061) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:24:17.965-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:24:17.967-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:24:17.966-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:24:18.534-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:24:18.543-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:24:18.543-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:24:18.554-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:24:18.554-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:24:18.570-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.611 seconds
+[2025-10-26T16:24:57.132-0300] {processor.py:161} INFO - Started process (PID=19125) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:24:57.134-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:24:57.135-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:24:57.135-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:24:57.671-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:24:57.678-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:24:57.678-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:24:57.690-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:24:57.689-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:24:57.705-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.578 seconds
+[2025-10-26T16:25:41.883-0300] {processor.py:161} INFO - Started process (PID=19194) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:25:41.885-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:25:41.886-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:25:41.886-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:25:42.374-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:25:42.381-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:25:42.381-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:25:42.391-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:25:42.391-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:25:42.404-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.525 seconds
+[2025-10-26T16:26:24.007-0300] {processor.py:161} INFO - Started process (PID=19261) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:26:24.009-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:26:24.010-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:26:24.010-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:26:24.541-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:26:24.549-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:26:24.548-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:26:24.559-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:26:24.559-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:26:24.573-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.570 seconds
+[2025-10-26T16:27:07.283-0300] {processor.py:161} INFO - Started process (PID=19328) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:27:07.285-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:27:07.286-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:27:07.286-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:27:07.786-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:27:07.793-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:27:07.793-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:27:07.804-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:27:07.804-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:27:07.818-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.539 seconds
+[2025-10-26T16:27:50.344-0300] {processor.py:161} INFO - Started process (PID=19396) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:27:50.345-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:27:50.347-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:27:50.347-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:27:50.887-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:27:50.895-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:27:50.894-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:27:50.905-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:27:50.905-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:27:50.918-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.578 seconds
+[2025-10-26T16:28:35.326-0300] {processor.py:161} INFO - Started process (PID=19465) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:28:35.328-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:28:35.329-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:28:35.329-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:28:35.834-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:28:35.841-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:28:35.841-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:28:35.852-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:28:35.852-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:28:35.866-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.544 seconds
+[2025-10-26T16:29:17.864-0300] {processor.py:161} INFO - Started process (PID=19534) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:29:17.865-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:29:17.867-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:29:17.866-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:29:18.370-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:29:18.377-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:29:18.377-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:29:18.389-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:29:18.389-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:29:18.403-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.544 seconds
+[2025-10-26T16:30:00.583-0300] {processor.py:161} INFO - Started process (PID=19601) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:30:00.584-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:30:00.586-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:30:00.586-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:30:01.088-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:30:01.096-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:30:01.096-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:30:01.107-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:30:01.106-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:30:01.121-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.543 seconds
+[2025-10-26T16:30:41.571-0300] {processor.py:161} INFO - Started process (PID=19669) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:30:41.573-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:30:41.574-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:30:41.574-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:30:42.078-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:30:42.085-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:30:42.085-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:30:42.096-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:30:42.096-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:30:42.109-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.542 seconds
+[2025-10-26T16:31:22.555-0300] {processor.py:161} INFO - Started process (PID=19733) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:31:22.557-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:31:22.558-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:31:22.558-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:31:23.058-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:31:23.065-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:31:23.065-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:31:23.076-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:31:23.076-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:31:23.088-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.538 seconds
+[2025-10-26T16:32:04.670-0300] {processor.py:161} INFO - Started process (PID=19802) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:32:04.672-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:32:04.673-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:32:04.673-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:32:05.172-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:32:05.179-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:32:05.179-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:32:05.189-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:32:05.189-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:32:05.203-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.538 seconds
+[2025-10-26T16:32:44.728-0300] {processor.py:161} INFO - Started process (PID=19867) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:32:44.730-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:32:44.732-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:32:44.731-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:32:45.253-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:32:45.260-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:32:45.260-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:32:45.271-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:32:45.271-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:32:45.283-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.559 seconds
+[2025-10-26T16:33:28.807-0300] {processor.py:161} INFO - Started process (PID=19936) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:33:28.809-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:33:28.811-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:33:28.810-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:33:29.313-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:33:29.321-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:33:29.321-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:33:29.331-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:33:29.331-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:33:29.344-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.541 seconds
+[2025-10-26T16:34:09.313-0300] {processor.py:161} INFO - Started process (PID=20003) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:34:09.315-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:34:09.316-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:34:09.316-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:34:09.824-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:34:09.831-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:34:09.831-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:34:09.843-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:34:09.842-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:34:09.856-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.547 seconds
+[2025-10-26T16:34:42.893-0300] {processor.py:161} INFO - Started process (PID=20066) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:34:42.895-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:34:42.896-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:34:42.896-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:34:43.405-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:34:43.413-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:34:43.412-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:34:43.423-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:34:43.423-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:34:43.436-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.548 seconds
+[2025-10-26T16:35:17.706-0300] {processor.py:161} INFO - Started process (PID=20126) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:35:17.708-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:35:17.709-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:35:17.709-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:35:18.213-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:35:18.220-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:35:18.220-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:35:18.232-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:35:18.232-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:35:18.245-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.544 seconds
+[2025-10-26T16:36:01.489-0300] {processor.py:161} INFO - Started process (PID=20193) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:36:01.490-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:36:01.492-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:36:01.491-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:36:01.999-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:36:02.006-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:36:02.006-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:36:02.016-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:36:02.016-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:36:02.030-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.546 seconds
+[2025-10-26T16:36:45.084-0300] {processor.py:161} INFO - Started process (PID=20262) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:36:45.086-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:36:45.087-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:36:45.087-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:36:45.600-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:36:45.607-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:36:45.607-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:36:45.618-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:36:45.618-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:36:45.630-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.550 seconds
+[2025-10-26T16:37:26.674-0300] {processor.py:161} INFO - Started process (PID=20329) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:37:26.675-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:37:26.676-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:37:26.676-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:37:27.221-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:37:27.233-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:37:27.233-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:37:27.245-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:37:27.245-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:37:27.260-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.591 seconds
+[2025-10-26T16:38:07.245-0300] {processor.py:161} INFO - Started process (PID=20394) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:38:07.247-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:38:07.248-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:38:07.248-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:38:07.790-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:38:07.798-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:38:07.798-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:38:07.811-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:38:07.811-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:38:07.910-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.670 seconds
+[2025-10-26T16:38:48.466-0300] {processor.py:161} INFO - Started process (PID=20462) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:38:48.468-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:38:48.469-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:38:48.469-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:38:49.032-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:38:49.039-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:38:49.039-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:38:49.051-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:38:49.051-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:38:49.066-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.604 seconds
+[2025-10-26T16:39:27.254-0300] {processor.py:161} INFO - Started process (PID=20528) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:39:27.256-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:39:27.257-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:39:27.257-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:39:27.815-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:39:27.823-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:39:27.823-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:39:27.835-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:39:27.835-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:39:27.850-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.601 seconds
+[2025-10-26T16:40:08.927-0300] {processor.py:161} INFO - Started process (PID=20594) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:40:08.928-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:40:08.930-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:40:08.929-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:40:09.501-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:40:09.510-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:40:09.509-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:40:09.617-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:40:09.616-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:40:09.631-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.709 seconds
+[2025-10-26T16:40:52.368-0300] {processor.py:161} INFO - Started process (PID=20661) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:40:52.369-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:40:52.371-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:40:52.370-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:40:52.896-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:40:52.904-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:40:52.904-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:40:52.915-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:40:52.915-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:40:53.013-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.650 seconds
+[2025-10-26T16:41:33.770-0300] {processor.py:161} INFO - Started process (PID=20729) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:41:33.771-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:41:33.773-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:41:33.772-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:41:34.304-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:41:34.311-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:41:34.311-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:41:34.324-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:41:34.323-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:41:34.338-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.573 seconds
+[2025-10-26T16:42:17.032-0300] {processor.py:161} INFO - Started process (PID=20797) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:42:17.034-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:42:17.035-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:42:17.035-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:42:17.676-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:42:17.685-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:42:17.684-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:42:17.776-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:42:17.776-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:42:17.789-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.763 seconds
+[2025-10-26T16:43:00.507-0300] {processor.py:161} INFO - Started process (PID=20865) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:43:00.508-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:43:00.509-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:43:00.509-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:43:01.060-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:43:01.068-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:43:01.068-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:43:01.166-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:43:01.166-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:43:01.180-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.678 seconds
+[2025-10-26T16:43:39.892-0300] {processor.py:161} INFO - Started process (PID=20931) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:43:39.894-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:43:39.895-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:43:39.894-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:43:40.546-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:43:40.557-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:43:40.557-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:43:40.576-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:43:40.576-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:43:40.593-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.705 seconds
+[2025-10-26T16:44:23.774-0300] {processor.py:161} INFO - Started process (PID=21000) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:44:23.776-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:44:23.777-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:44:23.777-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:44:24.313-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:44:24.403-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:44:24.403-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:44:24.414-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:44:24.414-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:44:24.429-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.659 seconds
+[2025-10-26T16:45:05.560-0300] {processor.py:161} INFO - Started process (PID=21066) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:45:05.562-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:45:05.563-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:45:05.563-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:45:06.095-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:45:06.103-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:45:06.103-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:45:06.196-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:45:06.196-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:45:06.209-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.654 seconds
+[2025-10-26T16:45:48.583-0300] {processor.py:161} INFO - Started process (PID=21134) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:45:48.585-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:45:48.586-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:45:48.586-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:45:49.210-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:45:49.218-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:45:49.218-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:45:49.229-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:45:49.229-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:45:49.244-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.666 seconds
+[2025-10-26T16:46:35.303-0300] {processor.py:161} INFO - Started process (PID=21203) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:46:35.305-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:46:35.307-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:46:35.306-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:46:35.942-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:46:35.950-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:46:35.950-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:46:35.961-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:46:35.961-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:46:35.974-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.675 seconds
+[2025-10-26T16:47:18.745-0300] {processor.py:161} INFO - Started process (PID=21272) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:47:18.747-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:47:18.749-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:47:18.748-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:47:19.371-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:47:19.379-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:47:19.379-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:47:19.390-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:47:19.390-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:47:19.404-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.663 seconds
+[2025-10-26T16:48:04.598-0300] {processor.py:161} INFO - Started process (PID=21340) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:48:04.600-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:48:04.601-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:48:04.601-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:48:05.234-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:48:05.241-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:48:05.241-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:48:05.252-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:48:05.252-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:48:05.267-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.674 seconds
+[2025-10-26T16:48:50.061-0300] {processor.py:161} INFO - Started process (PID=21409) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:48:50.064-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:48:50.065-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:48:50.065-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:48:50.739-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:48:50.747-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:48:50.747-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:48:50.758-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:48:50.758-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:48:50.772-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.715 seconds
+[2025-10-26T16:49:34.942-0300] {processor.py:161} INFO - Started process (PID=21479) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:49:34.944-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:49:34.946-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:49:34.945-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:49:35.567-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:49:35.581-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:49:35.581-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:49:35.594-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:49:35.593-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:49:35.610-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.672 seconds
+[2025-10-26T16:50:23.783-0300] {processor.py:161} INFO - Started process (PID=21550) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:50:23.785-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:50:23.786-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:50:23.786-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:50:24.374-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:50:24.383-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:50:24.383-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:50:24.396-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:50:24.396-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:50:24.412-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.633 seconds
+[2025-10-26T16:51:06.451-0300] {processor.py:161} INFO - Started process (PID=21618) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:51:06.453-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:51:06.455-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:51:06.455-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:51:07.022-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:51:07.030-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:51:07.030-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:51:07.041-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:51:07.041-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:51:07.056-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.612 seconds
+[2025-10-26T16:51:51.525-0300] {processor.py:161} INFO - Started process (PID=21687) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:51:51.528-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:51:51.529-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:51:51.529-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:51:52.083-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:51:52.090-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:51:52.090-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:51:52.102-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:51:52.102-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:51:52.116-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.596 seconds
+[2025-10-26T16:52:32.706-0300] {processor.py:161} INFO - Started process (PID=21755) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:52:32.709-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:52:32.710-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:52:32.710-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:52:33.264-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:52:33.273-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:52:33.272-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:52:33.283-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:52:33.283-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:52:33.297-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.595 seconds
+[2025-10-26T16:53:16.344-0300] {processor.py:161} INFO - Started process (PID=21822) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:53:16.346-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:53:16.348-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:53:16.348-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:53:16.890-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:53:16.898-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:53:16.898-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:53:16.909-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:53:16.909-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:53:16.924-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.584 seconds
+[2025-10-26T16:53:57.845-0300] {processor.py:161} INFO - Started process (PID=21890) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:53:57.847-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:53:57.848-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:53:57.848-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:53:58.398-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:53:58.405-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:53:58.405-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:53:58.416-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:53:58.415-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:53:58.430-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.589 seconds
+[2025-10-26T16:54:39.215-0300] {processor.py:161} INFO - Started process (PID=21957) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:54:39.216-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:54:39.218-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:54:39.218-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:54:39.744-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:54:39.752-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:54:39.751-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:54:39.764-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:54:39.764-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:54:39.778-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.567 seconds
+[2025-10-26T16:55:22.980-0300] {processor.py:161} INFO - Started process (PID=22024) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:55:22.982-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:55:22.983-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:55:22.983-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:55:23.500-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:55:23.508-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:55:23.507-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:55:23.519-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:55:23.518-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:55:23.532-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.557 seconds
+[2025-10-26T16:56:05.254-0300] {processor.py:161} INFO - Started process (PID=22092) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:56:05.256-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:56:05.257-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:56:05.257-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:56:05.764-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:56:05.772-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:56:05.772-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:56:05.782-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:56:05.782-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:56:05.795-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.545 seconds
+[2025-10-26T16:56:46.871-0300] {processor.py:161} INFO - Started process (PID=22158) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:56:46.873-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:56:46.874-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:56:46.874-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:56:47.431-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:56:47.439-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:56:47.439-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:56:47.452-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:56:47.451-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:56:47.466-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.600 seconds
+[2025-10-26T16:57:29.077-0300] {processor.py:161} INFO - Started process (PID=22226) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:57:29.079-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:57:29.081-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:57:29.080-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:57:29.634-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:57:29.642-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:57:29.641-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:57:29.652-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:57:29.652-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:57:29.667-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.594 seconds
+[2025-10-26T16:58:08.668-0300] {processor.py:161} INFO - Started process (PID=22291) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:58:08.670-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:58:08.671-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:58:08.671-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:58:09.231-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:58:09.239-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:58:09.239-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:58:09.251-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:58:09.251-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:58:09.264-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.600 seconds
+[2025-10-26T16:58:48.603-0300] {processor.py:161} INFO - Started process (PID=22358) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:58:48.605-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:58:48.606-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:58:48.606-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:58:49.159-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:58:49.167-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:58:49.167-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:58:49.180-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:58:49.180-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:58:49.197-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.598 seconds
+[2025-10-26T16:59:29.160-0300] {processor.py:161} INFO - Started process (PID=22425) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:59:29.161-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T16:59:29.162-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:59:29.162-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:59:29.745-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T16:59:29.754-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:59:29.754-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T16:59:29.765-0300] {logging_mixin.py:188} INFO - [2025-10-26T16:59:29.765-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T16:59:29.778-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.624 seconds
+[2025-10-26T17:00:10.037-0300] {processor.py:161} INFO - Started process (PID=22489) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:00:10.039-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T17:00:10.040-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:00:10.040-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:00:10.640-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:00:10.649-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:00:10.649-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:00:10.661-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:00:10.661-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T17:00:10.674-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.642 seconds
+[2025-10-26T17:00:54.750-0300] {processor.py:161} INFO - Started process (PID=22559) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:00:54.814-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T17:00:54.815-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:00:54.815-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:00:55.375-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:00:55.385-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:00:55.385-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:00:55.397-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:00:55.397-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T17:00:55.411-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.665 seconds
+[2025-10-26T17:01:36.393-0300] {processor.py:161} INFO - Started process (PID=22626) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:01:36.395-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T17:01:36.396-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:01:36.396-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:01:36.981-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:01:36.989-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:01:36.989-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:01:37.002-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:01:37.001-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T17:01:37.016-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.628 seconds
+[2025-10-26T17:02:19.130-0300] {processor.py:161} INFO - Started process (PID=22693) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:02:19.132-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T17:02:19.134-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:02:19.133-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:02:19.704-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:02:19.712-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:02:19.712-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:02:19.725-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:02:19.724-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T17:02:19.738-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.613 seconds
+[2025-10-26T17:02:58.554-0300] {processor.py:161} INFO - Started process (PID=22759) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:02:58.556-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T17:02:58.558-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:02:58.558-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:02:59.144-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:02:59.152-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:02:59.152-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:02:59.168-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:02:59.167-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T17:02:59.183-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.633 seconds
+[2025-10-26T17:03:41.325-0300] {processor.py:161} INFO - Started process (PID=22826) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:03:41.327-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T17:03:41.328-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:03:41.328-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:03:41.898-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:03:41.907-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:03:41.907-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:03:41.918-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:03:41.918-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T17:03:41.934-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.613 seconds
+[2025-10-26T17:04:22.413-0300] {processor.py:161} INFO - Started process (PID=22894) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:04:22.415-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T17:04:22.417-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:04:22.416-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:04:22.978-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:04:22.986-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:04:22.986-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:04:22.998-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:04:22.998-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T17:04:23.015-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.606 seconds
+[2025-10-26T17:05:01.614-0300] {processor.py:161} INFO - Started process (PID=22959) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:05:01.616-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T17:05:01.617-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:05:01.616-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:05:02.156-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:05:02.164-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:05:02.163-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:05:02.176-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:05:02.175-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T17:05:02.191-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.581 seconds
+[2025-10-26T17:05:46.466-0300] {processor.py:161} INFO - Started process (PID=23027) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:05:46.467-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T17:05:46.468-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:05:46.468-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:05:47.015-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:05:47.023-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:05:47.023-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:05:47.035-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:05:47.035-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T17:05:47.050-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.588 seconds
+[2025-10-26T17:06:28.860-0300] {processor.py:161} INFO - Started process (PID=23095) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:06:28.862-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T17:06:28.863-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:06:28.863-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:06:29.419-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:06:29.426-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:06:29.426-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:06:29.436-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:06:29.436-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T17:06:29.473-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.617 seconds
+[2025-10-26T17:07:08.248-0300] {processor.py:161} INFO - Started process (PID=23161) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:07:08.250-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T17:07:08.252-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:07:08.251-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:07:08.789-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:07:08.797-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:07:08.797-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:07:08.808-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:07:08.808-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T17:07:08.823-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.580 seconds
+[2025-10-26T17:07:50.360-0300] {processor.py:161} INFO - Started process (PID=23227) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:07:50.362-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T17:07:50.363-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:07:50.363-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:07:50.919-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:07:50.927-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:07:50.927-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:07:50.939-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:07:50.939-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T17:07:50.953-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.598 seconds
+[2025-10-26T17:08:32.374-0300] {processor.py:161} INFO - Started process (PID=23295) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:08:32.376-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T17:08:32.377-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:08:32.377-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:08:32.937-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:08:32.944-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:08:32.944-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:08:32.955-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:08:32.955-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T17:08:32.970-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.600 seconds
+[2025-10-26T17:09:14.652-0300] {processor.py:161} INFO - Started process (PID=23362) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:09:14.653-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T17:09:14.654-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:09:14.654-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:09:15.220-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:09:15.227-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:09:15.227-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:09:15.238-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:09:15.237-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T17:09:15.252-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.605 seconds
+[2025-10-26T17:09:59.703-0300] {processor.py:161} INFO - Started process (PID=23434) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:09:59.705-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T17:09:59.706-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:09:59.706-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:10:00.290-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:10:00.298-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:10:00.298-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:10:00.310-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:10:00.309-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T17:10:00.323-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.624 seconds
+[2025-10-26T17:10:41.211-0300] {processor.py:161} INFO - Started process (PID=23502) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:10:41.213-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T17:10:41.215-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:10:41.214-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:10:41.786-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:10:41.796-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:10:41.795-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:10:41.807-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:10:41.807-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T17:10:41.822-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.616 seconds
+[2025-10-26T17:11:21.996-0300] {processor.py:161} INFO - Started process (PID=23567) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:11:21.998-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T17:11:22.000-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:11:22.000-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:11:22.555-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:11:22.563-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:11:22.563-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:11:22.576-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:11:22.575-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T17:11:22.590-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.598 seconds
+[2025-10-26T17:12:02.946-0300] {processor.py:161} INFO - Started process (PID=23634) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:12:02.947-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T17:12:02.949-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:12:02.948-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:12:03.513-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:12:03.520-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:12:03.520-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:12:03.532-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:12:03.531-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T17:12:03.546-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.605 seconds
+[2025-10-26T17:12:45.136-0300] {processor.py:161} INFO - Started process (PID=23701) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:12:45.139-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T17:12:45.141-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:12:45.141-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:12:45.764-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:12:45.771-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:12:45.771-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:12:45.783-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:12:45.783-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T17:12:45.798-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.666 seconds
+[2025-10-26T17:13:30.328-0300] {processor.py:161} INFO - Started process (PID=23770) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:13:30.330-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T17:13:30.332-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:13:30.331-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:13:30.864-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:13:30.872-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:13:30.872-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:13:30.884-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:13:30.884-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T17:13:30.898-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.574 seconds
+[2025-10-26T17:14:15.171-0300] {processor.py:161} INFO - Started process (PID=23839) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:14:15.174-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T17:14:15.176-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:14:15.175-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:14:15.780-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:14:15.788-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:14:15.788-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:14:15.802-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:14:15.802-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T17:14:15.817-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.650 seconds
+[2025-10-26T17:14:59.671-0300] {processor.py:161} INFO - Started process (PID=23908) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:14:59.673-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T17:14:59.674-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:14:59.674-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:15:00.213-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:15:00.221-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:15:00.221-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:15:00.232-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:15:00.232-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T17:15:00.247-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.580 seconds
+[2025-10-26T17:15:43.414-0300] {processor.py:161} INFO - Started process (PID=23976) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:15:43.416-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T17:15:43.419-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:15:43.418-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:15:43.999-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:15:44.007-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:15:44.007-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:15:44.021-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:15:44.021-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T17:15:44.037-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.628 seconds
+[2025-10-26T17:16:25.129-0300] {processor.py:161} INFO - Started process (PID=24043) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:16:25.131-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T17:16:25.133-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:16:25.132-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:16:25.800-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:16:25.817-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:16:25.817-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:16:25.830-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:16:25.830-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T17:16:25.846-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.722 seconds
+[2025-10-26T17:17:05.992-0300] {processor.py:161} INFO - Started process (PID=24112) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:17:05.993-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T17:17:05.994-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:17:05.994-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:17:06.522-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:17:06.529-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:17:06.529-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:17:06.540-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:17:06.540-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T17:17:06.554-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.567 seconds
+[2025-10-26T17:17:44.743-0300] {processor.py:161} INFO - Started process (PID=24177) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:17:44.745-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T17:17:44.746-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:17:44.746-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:17:45.292-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:17:45.299-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:17:45.299-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:17:45.312-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:17:45.312-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T17:17:45.326-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.587 seconds
+[2025-10-26T17:18:26.238-0300] {processor.py:161} INFO - Started process (PID=24243) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:18:26.240-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T17:18:26.242-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:18:26.241-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:18:26.790-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:18:26.799-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:18:26.799-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:18:26.810-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:18:26.810-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T17:18:26.827-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.593 seconds
+[2025-10-26T17:19:08.832-0300] {processor.py:161} INFO - Started process (PID=24311) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:19:08.834-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T17:19:08.835-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:19:08.835-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:19:09.383-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:19:09.390-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:19:09.390-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:19:09.401-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:19:09.401-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T17:19:09.415-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.587 seconds
+[2025-10-26T17:19:50.908-0300] {processor.py:161} INFO - Started process (PID=24378) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:19:50.910-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T17:19:50.911-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:19:50.911-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:19:51.450-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:19:51.458-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:19:51.457-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:19:51.469-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:19:51.469-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T17:19:51.484-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.581 seconds
+[2025-10-26T17:20:35.056-0300] {processor.py:161} INFO - Started process (PID=24447) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:20:35.058-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T17:20:35.059-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:20:35.059-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:20:35.593-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:20:35.600-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:20:35.600-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:20:35.612-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:20:35.611-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T17:20:35.626-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.574 seconds
+[2025-10-26T17:21:21.105-0300] {processor.py:161} INFO - Started process (PID=24516) to work on /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:21:21.107-0300] {processor.py:830} INFO - Processing file /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py for tasks to queue
+[2025-10-26T17:21:21.108-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:21:21.108-0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:21:21.704-0300] {processor.py:840} INFO - DAG(s) 'spotify_pipeline' retrieved from /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py
+[2025-10-26T17:21:21.713-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:21:21.713-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-10-26T17:21:21.725-0300] {logging_mixin.py:188} INFO - [2025-10-26T17:21:21.725-0300] {dag.py:3954} INFO - Setting next_dagrun for spotify_pipeline to 2025-10-26 00:00:00+00:00, run_after=2025-10-27 00:00:00+00:00
+[2025-10-26T17:21:21.739-0300] {processor.py:183} INFO - Processing /home/joaosousa/projects/spotify-project/airflow/dags/pipeline_spotify.py took 0.639 seconds

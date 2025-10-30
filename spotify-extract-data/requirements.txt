@@ -1,0 +1,17 @@
+
+requests==2.32.3
+pandas==2.2.3
+python-dotenv==1.0.1
+
+
+pandas-gbq==0.24.0
+google-auth==2.35.0
+google-auth-oauthlib==1.2.1
+google-cloud-bigquery==3.25.0
+google-cloud-core==2.4.1
+
+dbt-core==1.8.6
+
+logging
+
+dotenv

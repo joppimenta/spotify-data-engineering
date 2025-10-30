@@ -1,0 +1,48 @@
+[2025-10-27T21:30:08.374-0300] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-10-27T21:30:08.384-0300] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: spotify_pipeline.run_dbt_models manual__2025-10-28T00:29:45.473457+00:00 [queued]>
+[2025-10-27T21:30:08.388-0300] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: spotify_pipeline.run_dbt_models manual__2025-10-28T00:29:45.473457+00:00 [queued]>
+[2025-10-27T21:30:08.388-0300] {taskinstance.py:2306} INFO - Starting attempt 1 of 2
+[2025-10-27T21:30:08.400-0300] {taskinstance.py:2330} INFO - Executing <Task(BashOperator): run_dbt_models> on 2025-10-28 00:29:45.473457+00:00
+[2025-10-27T21:30:08.408-0300] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'spotify_pipeline', 'run_dbt_models', 'manual__2025-10-28T00:29:45.473457+00:00', '--job-id', '13', '--raw', '--subdir', 'DAGS_FOLDER/pipeline_spotify.py', '--cfg-path', '/tmp/tmp6ub5djwr']
+[2025-10-27T21:30:08.409-0300] {standard_task_runner.py:91} INFO - Job 13: Subtask run_dbt_models
+[2025-10-27T21:30:08.411-0300] {logging_mixin.py:188} WARNING - /home/joaosousa/projects/spotify-project/venv/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py:61 DeprecationWarning: This process (pid=996) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2025-10-27T21:30:08.411-0300] {standard_task_runner.py:63} INFO - Started process 1010 to run task
+[2025-10-27T21:30:08.435-0300] {task_command.py:426} INFO - Running <TaskInstance: spotify_pipeline.run_dbt_models manual__2025-10-28T00:29:45.473457+00:00 [running]> on host DESKTOP-9L7P50Q.localdomain
+[2025-10-27T21:30:08.480-0300] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='joao' AIRFLOW_CTX_DAG_ID='spotify_pipeline' AIRFLOW_CTX_TASK_ID='run_dbt_models' AIRFLOW_CTX_EXECUTION_DATE='2025-10-28T00:29:45.473457+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-10-28T00:29:45.473457+00:00'
+[2025-10-27T21:30:08.481-0300] {taskinstance.py:430} INFO - ::endgroup::
+[2025-10-27T21:30:08.481-0300] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2025-10-27T21:30:08.482-0300] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'cd ~/projects/spotify-project/spotify-dbt/spotify_project && dbt run --profiles-dir .']
+[2025-10-27T21:30:08.493-0300] {subprocess.py:86} INFO - Output:
+[2025-10-27T21:30:09.749-0300] {subprocess.py:93} INFO - [0m00:30:09  Running with dbt=1.11.0-b3
+[2025-10-27T21:30:12.101-0300] {subprocess.py:93} INFO - [0m00:30:12  Registered adapter: bigquery=1.10.2
+[2025-10-27T21:30:12.420-0300] {subprocess.py:93} INFO - [0m00:30:12  [[33mWARNING[0m]: Configuration paths exist in your dbt_project.yml file which do not apply to any resources.
+[2025-10-27T21:30:12.421-0300] {subprocess.py:93} INFO - There are 1 unused configuration paths:
+[2025-10-27T21:30:12.421-0300] {subprocess.py:93} INFO - - models.spotify_project.landing
+[2025-10-27T21:30:12.538-0300] {subprocess.py:93} INFO - [0m00:30:12  Found 6 models, 3 data tests, 1 source, 509 macros
+[2025-10-27T21:30:12.539-0300] {subprocess.py:93} INFO - [0m00:30:12
+[2025-10-27T21:30:12.540-0300] {subprocess.py:93} INFO - [0m00:30:12  Concurrency: 1 threads (target='dev')
+[2025-10-27T21:30:12.540-0300] {subprocess.py:93} INFO - [0m00:30:12
+[2025-10-27T21:30:15.663-0300] {subprocess.py:93} INFO - [0m00:30:15  1 of 6 START sql table model datalake.album_to_artists ......................... [RUN]
+[2025-10-27T21:30:18.258-0300] {subprocess.py:93} INFO - [0m00:30:18  1 of 6 OK created sql table model datalake.album_to_artists .................... [[32mCREATE TABLE (139.0 rows, 22.5 KiB processed)[0m in 2.59s]
+[2025-10-27T21:30:18.259-0300] {subprocess.py:93} INFO - [0m00:30:18  2 of 6 START sql table model datalake.listened_tracks .......................... [RUN]
+[2025-10-27T21:30:21.360-0300] {subprocess.py:93} INFO - [0m00:30:21  2 of 6 OK created sql table model datalake.listened_tracks ..................... [[32mCREATE TABLE (139.0 rows, 46.1 KiB processed)[0m in 3.10s]
+[2025-10-27T21:30:21.361-0300] {subprocess.py:93} INFO - [0m00:30:21  3 of 6 START sql table model datalake.track_to_artists ......................... [RUN]
+[2025-10-27T21:30:24.895-0300] {subprocess.py:93} INFO - [0m00:30:24  3 of 6 OK created sql table model datalake.track_to_artists .................... [[32mCREATE TABLE (143.0 rows, 25.5 KiB processed)[0m in 3.53s]
+[2025-10-27T21:30:24.896-0300] {subprocess.py:93} INFO - [0m00:30:24  4 of 6 START sql table model datawarehouse.dim_albums .......................... [RUN]
+[2025-10-27T21:30:28.320-0300] {subprocess.py:93} INFO - [0m00:30:28  4 of 6 OK created sql table model datawarehouse.dim_albums ..................... [[32mCREATE TABLE (98.0 rows, 10.1 KiB processed)[0m in 3.42s]
+[2025-10-27T21:30:28.322-0300] {subprocess.py:93} INFO - [0m00:30:28  5 of 6 START sql table model datawarehouse.dim_artists ......................... [RUN]
+[2025-10-27T21:30:32.577-0300] {subprocess.py:93} INFO - [0m00:30:32  5 of 6 OK created sql table model datawarehouse.dim_artists .................... [[32mCREATE TABLE (112.0 rows, 36.2 KiB processed)[0m in 4.25s]
+[2025-10-27T21:30:32.579-0300] {subprocess.py:93} INFO - [0m00:30:32  6 of 6 START sql table model datawarehouse.fact_listened_tracks ................ [RUN]
+[2025-10-27T21:30:36.581-0300] {subprocess.py:93} INFO - [0m00:30:36  6 of 6 OK created sql table model datawarehouse.fact_listened_tracks ........... [[32mCREATE TABLE (169.0 rows, 24.1 KiB processed)[0m in 4.00s]
+[2025-10-27T21:30:36.584-0300] {subprocess.py:93} INFO - [0m00:30:36
+[2025-10-27T21:30:36.584-0300] {subprocess.py:93} INFO - [0m00:30:36  Finished running 6 table models in 0 hours 0 minutes and 24.04 seconds (24.04s).
+[2025-10-27T21:30:36.606-0300] {subprocess.py:93} INFO - [0m00:30:36
+[2025-10-27T21:30:36.607-0300] {subprocess.py:93} INFO - [0m00:30:36  [32mCompleted successfully[0m
+[2025-10-27T21:30:36.607-0300] {subprocess.py:93} INFO - [0m00:30:36
+[2025-10-27T21:30:36.607-0300] {subprocess.py:93} INFO - [0m00:30:36  Done. PASS=6 WARN=0 ERROR=0 SKIP=0 NO-OP=0 TOTAL=6
+[2025-10-27T21:30:37.874-0300] {subprocess.py:97} INFO - Command exited with return code 0
+[2025-10-27T21:30:37.875-0300] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-10-27T21:30:37.888-0300] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=spotify_pipeline, task_id=run_dbt_models, run_id=manual__2025-10-28T00:29:45.473457+00:00, execution_date=20251028T002945, start_date=20251028T003008, end_date=20251028T003037
+[2025-10-27T21:30:37.907-0300] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2025-10-27T21:30:37.913-0300] {taskinstance.py:3503} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-10-27T21:30:37.913-0300] {local_task_job_runner.py:222} INFO - ::endgroup::
