@@ -2,7 +2,7 @@
 
 ## Descrição
 Este projeto tem como objetivo extrair dados da API do Spotify via Python de dados referentes às músicas escutadas por um usuário, processá-los via DBT e armazená-los no **Google BigQuery**.  
-O pipeline é estruturado no formato **ELT**: os dados são extraídos da API, carregados em uma landing table no BigQuery e transformados via DBT.
+O pipeline é estruturado no formato **ELT**: os dados são extraídos da API, carregados em uma landing table no BigQuery e transformados via DBT. Esse processo é orquestrado via GitHub Actions, que também agenda uma execução diária dessa tarefa.
 
 ## Funcionalidades
 - Autenticação e refresh de token na API do Spotify.
