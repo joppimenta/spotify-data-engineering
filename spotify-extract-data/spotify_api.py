@@ -79,8 +79,8 @@ def get_recently_played(access_token, after_ts=None):
 
 def filter_tracks(tracks):
     # transforma os dados da API em df
-    return pd.DataFrame(tracks)
-
+    df = pd.json_normalize(tracks, sep='_')
+    return df
 
 def load_to_bigquery(df):
     # mandando os dados para o bq
