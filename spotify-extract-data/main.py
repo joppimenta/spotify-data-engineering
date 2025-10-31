@@ -29,6 +29,7 @@ def main():
         logging.info("Nenhuma música nova encontrada.")
         return
     
+    print(df.dtypes)
     # enviar novas músicas para o BigQuery
     load_to_bigquery(df)
     logging.info(f"{len(df)} novas músicas adicionadas.")
