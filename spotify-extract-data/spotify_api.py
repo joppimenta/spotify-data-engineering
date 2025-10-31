@@ -95,6 +95,6 @@ def load_to_bigquery(df):
         destination_table=f"{DATASET}.{TABLE}",
         project_id=PROJECT_ID,
         credentials=credentials,
-        if_exists="replace"
+        if_exists="append"
     )
     print(f"{len(df)} linhas adicionadas em {DATASET}.{TABLE}.")

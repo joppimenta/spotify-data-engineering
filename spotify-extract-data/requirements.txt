@@ -4,7 +4,7 @@ pandas==2.2.3
 python-dotenv==1.0.1
 
 
-pandas-gbq==0.24.0
+pandas-gbq==0.29.2
 google-auth==2.35.0
 google-auth-oauthlib==1.2.1
 google-cloud-bigquery==3.25.0
