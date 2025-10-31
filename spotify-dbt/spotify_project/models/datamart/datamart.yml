@@ -14,7 +14,7 @@ models:
       - name: artist_href
         description: "Link da API do Spotify com detalhes do artista."
       - name: artist_type
-        description: "Tipo da entidade — geralmente 'artist'."
+        description: "Tipo da entidade."
       - name: artist_spotify
         description: "URL pública do Spotify para o perfil do artista."
       - name: artist_uri
@@ -23,14 +23,13 @@ models:
   - name: dim_albums
     description: >
       Dimensão que contém informações únicas dos álbuns presentes nas faixas ouvidas.
-      Pode ser usada para analisar métricas agregadas por álbum.
     columns:
       - name: album_id
         description: "Identificador único do álbum."
       - name: album_name
         description: "Nome do álbum."
       - name: album_type
-        description: "Tipo do álbum (por exemplo, 'album', 'single', 'compilation')."
+        description: "Tipo do álbum."
       - name: album_release_date
         description: "Data de lançamento do álbum em formato DATE. Caso apenas o ano esteja disponível, assume-se 01/01."
       - name: album_release_date_precision
@@ -38,11 +37,34 @@ models:
       - name: album_total_tracks
         description: "Número total de faixas do álbum."
 
+  - name: dim_tracks
+    description: >
+      Dimensão que contém informações únicas sobre as faixas (músicas) disponíveis no dataset.
+      Cada registro representa uma música única, ligada a um álbum e potencialmente a vários artistas.
+    columns:
+      - name: track_id
+        description: "Identificador único da faixa."
+      - name: track_name
+        description: "Nome da faixa."
+      - name: popularity
+        description: "Popularidade da faixa no Spotify"
+      - name: duration_ms
+        description: "Duração da faixa em milissegundos."
+      - name: disc_number
+        description: "Número do disco dentro do álbum (para álbuns com múltiplos discos)."
+      - name: track_number
+        description: "Número da faixa dentro do disco."
+      - name: track_type
+        description: "Tipo do objeto "
+      - name: track_uri
+        description: "URI única do Spotify para a faixa."
+      - name: album_id
+        description: "Chave estrangeira que referencia o álbum ao qual a faixa pertence."
+
   - name: fact_listened_tracks
     description: >
       Fato principal contendo registros de faixas ouvidas pelos usuários.
-      Cada linha representa uma reprodução e está ligada às dimensões de
-      artistas, álbuns e faixas.
+      Cada linha representa uma reprodução
     columns:
       - name: played_at
         description: "Timestamp em que a faixa foi reproduzida."
