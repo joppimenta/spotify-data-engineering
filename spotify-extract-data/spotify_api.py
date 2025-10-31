@@ -83,7 +83,9 @@ def filter_tracks(tracks):
     
     for col in df.columns:
         df[col] = df[col].apply(lambda x: json.dumps(x) if isinstance(x, (dict, list)) else x)
-        
+    
+    df = df.where(pd.notnull(df), None)
+    
     return df
 
 def load_to_bigquery(df):
