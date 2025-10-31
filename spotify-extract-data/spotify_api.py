@@ -78,16 +78,9 @@ def get_recently_played(access_token, after_ts=None):
 
 
 def filter_tracks(tracks):
-    #transformando o json em dataframe
-    df = pd.json_normalize(tracks, sep='_')
-    
-    for col in df.columns:
-        df[col] = df[col].apply(lambda x: json.dumps(x) if isinstance(x, (dict, list)) else x)
-        df[col] = df[col].astype(object)
+    # transforma os dados da API em df
+    return pd.DataFrame(tracks)
 
-    df = df.where(pd.notnull(df), None)
-
-    return df
 
 def load_to_bigquery(df):
     # mandando os dados para o bq
@@ -102,6 +95,6 @@ def load_to_bigquery(df):
         destination_table=f"{DATASET}.{TABLE}",
         project_id=PROJECT_ID,
         credentials=credentials,
-        if_exists="append"
+        if_exists="replace"
     )
     print(f"{len(df)} linhas adicionadas em {DATASET}.{TABLE}.")
