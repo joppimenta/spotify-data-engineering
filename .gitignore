@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+my-spotify-475819-120fa57bcf14.json
+.idea
+.env

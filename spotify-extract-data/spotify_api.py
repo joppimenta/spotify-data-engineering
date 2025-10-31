@@ -8,7 +8,7 @@ import pandas_gbq
 from google.oauth2 import service_account
 import json
 
-# Carregar variáveis do .env local (se existir) ===
+# se estiver no ambiente local, carrega as variaveis de ambiente
 load_dotenv()
 
 CLIENT_ID = os.getenv("SPOTIFY_CLIENT_ID")
@@ -25,12 +25,9 @@ def get_gcp_credentials():
     if json_key:
         try:
             info = json.loads(json_key)
-            print("Usando credenciais do JSON")
             return service_account.Credentials.from_service_account_info(info)
         except json.JSONDecodeError:
-            # se for caminho para arquivo
             if os.path.exists(json_key):
-                print(f"Usando credenciais do arquivo: {json_key}")
                 return service_account.Credentials.from_service_account_file(json_key)
     raise EnvironmentError(
         "Credenciais do GCP não encontradas. Defina GCP_CREDENTIALS_JSON ou GOOGLE_APPLICATION_CREDENTIALS."
@@ -41,7 +38,7 @@ credentials = get_gcp_credentials()
 # === Funções principais ===
 
 def get_access_token():
-    """Obtém token de acesso do Spotify via refresh token"""
+    # Obtém token de acesso do Spotify via refresh token
     url = "https://accounts.spotify.com/api/token"
     auth_str = f"{CLIENT_ID}:{CLIENT_SECRET}"
     b64_auth = b64encode(auth_str.encode()).decode()
@@ -55,7 +52,7 @@ def get_access_token():
 
 
 def get_last_played_from_bq():
-    """Retorna o último played_at registrado no BigQuery"""
+    # Retorna a data que a ultima musica foi executada no BigQuery
     query = f"""
         SELECT MAX(played_at) AS last_played
         FROM `{PROJECT_ID}.{DATASET}.{TABLE}`
@@ -70,7 +67,7 @@ def get_last_played_from_bq():
 
 
 def get_recently_played(access_token, after_ts=None):
-    """Obtém as últimas 50 músicas tocadas (filtrando por after_ts se existir)"""
+    # Obtém as últimas 50 músicas tocadas (após after_ts)
     headers = {"Authorization": f"Bearer {access_token}"}
     url = "https://api.spotify.com/v1/me/player/recently-played?limit=50"
     if after_ts:
@@ -81,12 +78,12 @@ def get_recently_played(access_token, after_ts=None):
 
 
 def filter_tracks(tracks):
-    """Transforma os dados da API em DF"""
+    # transforma os dados da API em df
     return pd.DataFrame(tracks)
 
 
 def load_to_bigquery(df):
-    """Envia o DataFrame para o BigQuery"""
+    # mandando os dados para o bq
     if df.empty:
         print("Nenhum dado para carregar no BigQuery.")
         return
